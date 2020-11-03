@@ -2,7 +2,7 @@ title: Latin dictionaries
 author: Nikita Murzintcev
 repository: nikita-moor/dictionaries
 url: https://nikita-moor.github.io
-baseurl: /
+baseurl: 
 google_analytics: UA-140847555-1
 
 collections:
