@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    {% include google-analytics.html %}
+    {% feed_meta %}
+    {% seo %}
+    <link rel="icon" href="{{ site.baseurl }}/assets/img/favicon.svg" type="image/svg+xml" />
+    <link href="{{ site.baseurl }}/assets/css/fonts.css" rel="stylesheet" type="text/css">
+    <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/img-viewer.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/assets/css/jekyll-github.css" rel="stylesheet">
+    
+    <script src="{{ site.baseurl }}/assets/js/spotlight.bundle.js"></script>
+    <link href="{{ site.baseurl }}/assets/css/spotlight.css" rel="stylesheet">
+    
+  </head>
+  <body>
+    <div class="layout">
+      <div class="sidebar">
+        <a href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/assets/img/logo-girl.png" class="logo"
+               height="170" width="180" alt="logo" />
+        </a>
+        <h1>{{ site.title }}</h1>
+        <p class="sidebar-desc">for computer and mobile, to have full pleasure of reading and writing Latin</p>
+        <h1>Navigation</h1>
+        <div>
+	      <ul class="sidebar-toc">
+	      {% for item in site.data.toc %}
+	        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+	        {% if item.submenu %}
+	        <ul class="sidebar-toc">
+	          {% for subitem in item.submenu %}
+	          <li><a href="{{ site.baseurl }}{{ subitem.url }}">{{ subitem.title }}</a></li>
+	          {% endfor %}
+	        </ul>
+	        {% endif %}
+	        </li>
+	      {% endfor %}
+	      </ul>
+        </div>
+      </div>
+      <div class="content">
+        {{ content }}
+      </div>
+      <div class="footer">
+        <p>© {{ site.author }} - Powered by Jekyll.</p>
+      </div>
+    </div>
+  </body>
+</html>
+

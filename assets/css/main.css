@@ -1,0 +1,175 @@
+body {
+  font-family: "Roboto Condensed", Arial, sans-serif;
+  background: url("../img/background.png");
+  line-height: 1.5em;
+  font-weight: normal;
+  font-size: 16px;
+  color: black;
+}
+
+hr {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 1px solid #F7F1F1;
+  border-bottom: 1px solid #ccc;
+}
+
+h1, h2, h3 {
+  margin-top: 30px;
+  font-weight: normal;
+}
+h1 {
+  margin-bottom: 10px;
+  font-size: 25px;
+}
+h2, h3 {
+  margin-bottom: 5px;
+}
+
+a, a:link, a:active {
+  text-decoration: none;
+  color: #037e20;
+}
+a:hover {
+  color: #037e20;
+  text-decoration: underline;
+}
+
+ul { 
+  list-style-type: square;
+  color: #037e20;
+}
+ul > li { color: black; }
+
+.sidebar-desc {
+  color: #888;
+}
+
+ul.sidebar-toc {
+  list-style: none;
+  margin-left: 0px;
+  padding-left: 15px;
+}
+
+.sidebar-toc li:before {
+  content: "»";
+  padding-right: 5px;
+}
+
+img.logo {
+  filter: hue-rotate(70deg);
+}
+
+/* 
+ * pagination
+ * https://www.w3schools.com/Css/css_navbar.asp
+ */
+
+ul.pagination {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+ul.pagination li {
+  float: left;
+  border-top: 1px solid #037e20;
+  border-bottom: 1px solid #037e20;
+}
+
+ul.pagination li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 2px 16px;
+  text-decoration: none;
+}
+
+ul.pagination li a:hover {
+  background-color: #037e20;
+  color: white;
+}
+
+ul.pagination .active a {
+  background-color: #037e20;
+  color: white;
+}
+
+/* pagination: end */
+
+/*
+ * Layout
+ */
+
+.layout {
+  /*width: 1170px;*/ /* 750px */
+  max-width: 1024px;
+  min-width: 700px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px
+}
+
+.sidebar {
+  width: 25%;
+  margin-top: 100px;
+  float: left;
+  /* */
+  position: relative;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.content {
+  width: 66%;
+  float: left;
+  position: relative;
+/*
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+*/
+/*box-sizing: border-box;*/
+}
+
+.footer {
+  clear: both;
+  border-top: 1px solid #ccc;
+  margin-top: 10px;
+  padding-top: 10px;
+  text-align: right;
+  color: grey;
+}
+
+/*
+ * other styles
+ */
+
+blockquote {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #0A749E;
+  background: #eee;
+}
+
+li > p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+img.spotlight {
+  margin-top: 15px;
+  box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+}
+
+code {
+  font-size: .8em;
+}
+

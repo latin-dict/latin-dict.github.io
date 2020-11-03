@@ -1,0 +1,19 @@
+- title: Home
+  url: /
+- title: Dictionaries
+  url: /dictionaries.html
+  submenu:
+    - title: Online
+      url: /online.html
+- title: Docs
+  url: /docs/docs.html
+  submenu:
+    - title: Quick Start
+      url: /docs/howto.html
+    - title: Hunspell
+      url: /docs/hunspell.html
+- title: About
+  url: /about.html
+- title: Subscribe &#x2F; RSS
+  url: /feed.xml
+
