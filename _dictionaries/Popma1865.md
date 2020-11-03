@@ -11,16 +11,14 @@ categories: [synonyms, latin]
 
 Full title is "Ausonii Popmae frisii de differentiis verborum cum additamentis Ioannis Friderici Hekelii, Adami Danielis Richteri, Ioannis Christiani Messerschmidii et Thomae Vallaurii qui opus diligentissime retractavit".
 
-Dictionary of **Latin** synonyms ("osculum" vs "suavium"), homonyms ("arundo" vs "hirundo") or paronymous words ("cedere" vs "accedere") with explanations in **Latin**. Sometimes, authors give analogies from Greek and Italian languages (first introduced in the 1852 edition).
+Dictionary of **Latin** synonyms ("osculum" vs "suavium"), homonyms ("arundo" vs "hirundo") or paronymous words ("cedere" vs "accedere") with explanations in **Latin**. One pair of Greek words is discussed (Ἔπαινος vs Ἐγκώμιον). There are sparse Greek, Italian, French and German sentences.
 
 Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book, but in XVII-XVIII centuries it was often published together with "De differentiis verborum". It is not included into our edition.
 
 
 ## Download
 
-Work in progress release: [v0.14 (October 3, 2020)][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
-
-Source files see in [github repository][1].
+Download [files compiled for dictionary shells][2] or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 
 ## Exemplum
@@ -31,7 +29,12 @@ Source files see in [github repository][1].
 
 ## Sources
 
-1. Popma, Ausonius; Heckel, J. F.; Messerschmid, J. Ch.; Richter, A. D.; Vallauri, T. _De differentiis verborum (2nd ed.)._ Asceterii Salesiani Publisher, Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC> \[Accessed 28 April 2019\].
+1. Popma, Ausonius; Heckel, J. F.; Messerschmid, J. Ch.; Richter, A. D.; Vallauri, T. _De differentiis verborum._ (2nd ed.) Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC>.
+1. — " —. (2nd ed.; reprint) Turin, 1870. URL: <https://books.google.com/books?id=9i6Ogx8aCJIC>.
+
+## States and limitations
+
+Text of this book is being transcribed (50% on Oct. 3, 2020), so part of the dictionary is still represented as full page images.
 
 
 ## License
@@ -40,9 +43,10 @@ Source files see in [github repository][1].
 <img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
+<br/>
+This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-03
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
 [3]: {{ site.baseurl }}{% link docs/docs.md %}
-
