@@ -13,7 +13,7 @@ categories: [greek]
 
 ## Download
 
-Download [files compiled for dictionary shells][1] or view [source files][2]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
+[Download][2] files compiled for dictionary shells. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 
 ## Exemplum
@@ -37,8 +37,6 @@ Currently vocabulary undergoes examination. It is fully functional, but can be i
 
 ## Usage guidelines
 
-Add file `index.html` to GoldenDict following the [guide for HTML dictionaries][4].
-
 Headwords are represented in three forms:
 
 * Greek script polytonic: φιλέω
@@ -55,16 +53,11 @@ abgdezhqiklmncoprsstufxywfk
 
 ## License
 
-
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
-<br/>
-This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
+[![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
-[1]: https://github.com/latin-dict/{{ page.nickname }}/releases
-[2]: https://github.com/latin-dict/{{ page.nickname }}
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
 [3]: {{ site.baseurl }}{% link docs/docs.md %}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries

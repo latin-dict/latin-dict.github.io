@@ -4,7 +4,6 @@ author: Popma
 year: 1865
 tags: [Latin]
 nickname: Popma1865
-comment: draft
 categories: [synonyms, latin]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
@@ -18,7 +17,7 @@ Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book
 
 ## Download
 
-Download [files compiled for dictionary shells][2] or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
+[Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 
 ## Exemplum
@@ -29,8 +28,8 @@ Download [files compiled for dictionary shells][2] or view [source files][1]. Fo
 
 ## Sources
 
-1. Popma, Ausonius; Heckel, J. F.; Messerschmid, J. Ch.; Richter, A. D.; Vallauri, T. _De differentiis verborum._ (2nd ed.) Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC>.
-1. — " —. (2nd ed.; reprint) Turin, 1870. URL: <https://books.google.com/books?id=9i6Ogx8aCJIC>.
+1. Popma, Ausonius von; Heckel, Johann Friedrich; Messerschmid, Johann Christian; Richter, Adam Daniel; Vallauri, Tommaso. _De differentiis verborum._ (2nd ed.) Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC>.
+1. — " —. (reprint of 2nd ed.) Turin, 1870. URL: <https://books.google.com/books?id=9i6Ogx8aCJIC>.
 
 ## States and limitations
 
@@ -39,12 +38,8 @@ Text of this book is being transcribed (50% on Oct. 3, 2020), so part of the dic
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
-<br/>
-This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
+[![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}
