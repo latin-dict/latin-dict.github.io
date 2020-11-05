@@ -6,7 +6,7 @@ categories: [latin]
 ---
 # {{ page.title }}
 
-[{{ page.title }}]({{ page.website }}) is a monolingual Latin dictionary (Forcellini, 1775), but most of the articles have short translations into Italian, French, Spanish, German and English languages.
+[{{ page.title }}]({{ page.website }}) [1] is a monolingual Latin dictionary, but most of the articles have short translations into Italian, French, Spanish, German and English languages.
 
 
 ## Download
@@ -16,7 +16,7 @@ categories: [latin]
 
 ## Exemplum
 
-{% include img-viewer.html img="img/Forcellini1775-1.png" id="1" %}
+{% include img-viewer.html img="img/Forcellini-1.png" id="1" %}
 
 
 ## Sources
@@ -30,6 +30,6 @@ categories: [latin]
 This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
-[1]: https://github.com/latin-dict/Forcellini1775/releases
+[1]: https://github.com/latin-dict/Forcellini/releases
 [2]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries
 
