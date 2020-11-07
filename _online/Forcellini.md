@@ -6,7 +6,7 @@ categories: [latin]
 ---
 # {{ page.title }}
 
-[{{ page.title }}]({{ page.website }}) [1] is a monolingual Latin dictionary, but most of the articles have short translations into Italian, French, Spanish, German and English languages.
+[{{ page.title }}]({{ page.website }}) \[1\] is a monolingual Latin dictionary, but most of the articles additionally have short translations into Italian, French, Spanish, German and English languages.
 
 
 ## Download

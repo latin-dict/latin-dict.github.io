@@ -8,7 +8,7 @@ title: Documentation
 GoldenDict is a computer shell which can read and organize dictionaries of different formats.
 
 * Windows: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows).
-* Linux: install the application from your software manager; choose Qt5-based version if there are variants.
+* Linux: install the application from your software manager; choose Qt5-based version if there are variants. Another option are [AppImage builds](https://github.com/Abs62/goldendict/releases).
 * macOS: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
 
 
