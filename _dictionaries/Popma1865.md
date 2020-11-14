@@ -29,7 +29,7 @@ Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book
 ## Sources
 
 1. Popma, Ausonius von; Heckel, Johann Friedrich; Messerschmid, Johann Christian; Richter, Adam Daniel; Vallauri, Tommaso. _De differentiis verborum._ (2nd ed.) Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC>.
-1. — " —. (reprint of 2nd ed.) Turin, 1870. URL: <https://books.google.com/books?id=9i6Ogx8aCJIC>.
+1. — " —. Turin, 1870 (reprint). URL: <https://books.google.com/books?id=9i6Ogx8aCJIC>.
 
 ## States and limitations
 

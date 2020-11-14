@@ -16,7 +16,7 @@ On-line version is available on [Godmy's website](http://www.lexica.linguax.com/
 
 ## Download
 
-Current version is [v1.0 (November 1, 2020)][1]. This format is only compatible with desktop GoldenDict.
+[Download][2] files compiled for dictionary shells or view [source files][1]. This format is only compatible with desktop GoldenDict.
 
 
 ## Exemplum
@@ -38,14 +38,11 @@ Add file `index.html` to GoldenDict following the [guide for HTML dictionaries][
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a><br/>
-This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
+[![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-11-01
-[2]: {{ site.baseurl }}{% link docs/docs.md %}
-[3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
+[3]: {{ site.baseurl }}{% link docs/docs.md %}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries

@@ -1,5 +1,5 @@
 ---
-title: Lexicon manuale græco-latinum et latino-græcum
+title: Lexicon manuale graeco-latinum et latino-graecum
 author: Schrevel
 year: 1831
 tags: [Greek, Latin]
@@ -16,14 +16,12 @@ On-line version (ed. 1832) can be found on [Godmy's website](http://www.lexica.l
 
 ## Download
 
-Current version is [v1.5 (November 1, 2020)][1]. This format is only compatible with desktop GoldenDict.
-
-Source files are [in the repository][3].
+[Download][2] files compiled for dictionary shells or view [source files][1]. This format is only compatible with desktop GoldenDict.
 
 
 ## Exemplum
 
-{% include img-viewer.html img="img/Schrevel1831-1.png" id="1" %}
+{% include img-viewer.html img="img/Schrevel1831-1.png"  id="1" %}
 {% include img-viewer.html img="img/Schrevel1831-2.webp" id="2" %}
 {% include img-viewer.html img="img/Schrevel1831-3.webp" id="3" %}
 
@@ -42,14 +40,11 @@ Authors use medieval spelling for Latin words, so instead of 'paene', 'femina' l
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a><br/>
-This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
+[![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-11-01
-[2]: {{ site.baseurl }}{% link docs/docs.md %}
-[3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
+[3]: {{ site.baseurl }}{% link docs/docs.md %}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries

@@ -8,8 +8,10 @@ title: Documentation
 GoldenDict is a computer shell which can read and organize dictionaries of different formats.
 
 * Windows: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows).
-* Linux: install the application from your software manager; choose Qt5-based version if there are variants. Another option are [AppImage builds](https://github.com/Abs62/goldendict/releases).
+* Linux: install application from the software manager on your system; choose Qt5-based version if there are options. Another variant is [AppImage build](https://github.com/Abs62/goldendict/releases).
 * macOS: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
+
+@nonwill's fork of [GoldenDict with OCR module](https://nonwill.github.io/post/goldendict/) can also be a source of install files for all three platforms. Read [this thread](https://github.com/goldendict/goldendict/issues/953) to get additional information where to download GoldenDict.
 
 
 # Add dictionaries to GoldenDict
@@ -25,7 +27,7 @@ In order to use dictionaries from this website you should make few simple steps:
 
 {% include img-viewer.html img="img/goldendict-1.png" %}
 
-**Note:** if you organized dictionaries into groups (menu Edit > Dictionaries, tab Groups), then the new dictionary will not be added automaticly. In such a case, on the step 4 in place of "OK" press "Apply", then on the tab Groups add new dicitonary into the desired group.
+**Note:** if you organized dictionaries into groups (menu Edit > Dictionaries, tab Groups), then the new dictionary will not be added automatically. In such a case, on the step 4 in place of "OK" press "Apply", then on the tab Groups add new dictionary into the desired group.
 
 
 # HTML dictionaries

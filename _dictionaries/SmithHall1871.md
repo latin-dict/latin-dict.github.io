@@ -25,7 +25,7 @@ For download see [Release][101] section; development version and source files ar
 
 ## Sources
 
-1. Smith, W.; Hall, T. D. _A copious and critical English-Latin dictionary._ Harper & brothers, 1871. URL: <https://archive.org/details/copiouscriticale00smit> \[Accessed 11 March 2019\].
+1. Smith, W.; Hall, T. D. _A copious and critical English-Latin dictionary._ New York, 1871. URL: <https://archive.org/details/copiouscriticale00smit> \[Accessed 11 March 2019\].
 1. On-going transcribe project. URL: <https://www.pgdp.net/c/project.php?id=projectID5775aeccac0c7> \[Accessed 11 March 2019\].
 
 
