@@ -50,10 +50,8 @@ Forms of the words in the original books are compatible with [Hunspell dictionar
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
+[![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}

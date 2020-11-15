@@ -37,13 +37,8 @@ Keywords are duplicated with their equivalents after removing diacritics, e.g. "
 
 All our attempts to contact with the copyright holder, Instituto Superior "Juan XXIII", were left without any response. The book is deposited on the institute's website for free download, so we believe that our version can be considered a "fair use".
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-  <img alt="Creative Commons License"
-       style="border-width:0" 
-       src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
-</a>
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+[![CC BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)\
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 If the copyright holder decides to distribute the dictionary under a less restricted license, our edition can be used with these new legal terms, including the Public Domain or CC0.
 
