@@ -14,34 +14,3 @@ title: Home
   </li>
   {% endfor %}
 </ul>
-
-<!-- pagination navigator -->
-{% if paginator.total_pages > 1 %}
-<ul class="pagination">
-  {% if paginator.previous_page %}
-  <li><a href="{{ site.baseurl }}{{ paginator.previous_page_path }}">&laquo;</a></li>
-  {% else %}
-  <li><a href="">&laquo;</a></li>
-  {% endif %}
-
-  <li><a href="{{ site.baseurl }}/">First</a></li>
-
-  {% for page in (1..paginator.total_pages) %}
-    {% if page == paginator.page %}
-  <li class="active"><a>{{ page }}</a></li>
-    {% elsif page == 1 %}
-  <li><a href="{{ site.baseurl }}/">{{ page }}</a></li>
-    {% else %}
-  <li><a href="{{ site.baseurl }}/page{{ page }}">{{ page }}</a></li>
-    {% endif %}
-  {% endfor %}
-
-  <li><a href="{{ site.baseurl }}/page{{ paginator.total_pages }}">Last</a></li>
-  {% if paginator.next_page %}
-  <li><a href="{{ site.baseurl }}{{ paginator.next_page_path }}">&raquo;</a></li>
-  {% else %}
-  <li><a href="">&raquo;</a></li>
-  {% endif %}
-</ul>
-{% endif %}
-

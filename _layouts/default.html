@@ -2,6 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     {% include google-analytics.html %}
     {% feed_meta %}
     {% seo %}
@@ -11,19 +12,18 @@
     <link href="{{ site.baseurl }}/assets/css/img-viewer.css" rel="stylesheet">
     <link href="{{ site.baseurl }}/assets/css/jekyll-github.css" rel="stylesheet">
     
-    <script src="{{ site.baseurl }}/assets/js/spotlight.bundle.js"></script>
-    <link href="{{ site.baseurl }}/assets/css/spotlight.css" rel="stylesheet">
-    
   </head>
   <body>
-    <div class="layout">
-      <div class="sidebar">
-        <a href="{{ site.baseurl }}/">
-          <img src="{{ site.baseurl }}/assets/img/logo-girl.png" class="logo"
-               height="170" width="180" alt="logo" />
-        </a>
-        <h1>{{ site.title }}</h1>
-        <p class="sidebar-desc">for computer and mobile, to have full pleasure of reading and writing Latin</p>
+    <div id="layout">
+      <div id="sidebar">
+        <div id="fullview">
+          <a href="{{ site.baseurl }}/">
+            <img src="{{ site.baseurl }}/assets/img/logo-girl.png" class="logo"
+                 height="170" width="180" alt="logo" />
+          </a>
+          <h1>{{ site.title }}</h1>
+          <p class="sidebar-desc">for computer and mobile, to have full pleasure of reading and writing Latin</p>
+        </div>
         <h1>Navigation</h1>
         <div>
 	      <ul class="sidebar-toc">
@@ -41,10 +41,10 @@
 	      </ul>
         </div>
       </div>
-      <div class="content">
+      <div id="content">
         {{ content }}
       </div>
-      <div class="footer">
+      <div id="footer">
         <p>© {{ site.author }} - Powered by Jekyll.</p>
       </div>
     </div>

@@ -31,7 +31,7 @@ This **Latin** (with some **German** notes) treatise is a guide to the purificat
 
 Appendix "Series Latinorum Scriptorum" is not included into our version.
 
-Headwords were changed to lowercase to be compatible with Hunspell dicitonary, but it can break some logic related to the words which should to be in title-case. For example, Hunspell is not able to recognize that "hispana" is a form of "Hispanus". Besides the letter case, headwords were left without change, so distinct articles will be found on "amo" and "amare". Verbs are usually in a form of infinitive or first-preson; nouns can have any of inflectional forms; short phrases and sentence are also common.
+Headwords were changed to lowercase to be compatible with Hunspell dicitonary, but it can break some logic related to the words which should to be in title-case. For example, Hunspell is not able to recognize that "hispana" is a form of "Hispanus". Besides the letter case, headwords were left without change, so distinct articles will be found on "amo" and "amare". Verbs are usually in a form of infinitive or first-preson; nouns can be in any of inflectional forms; short phrases and sentence are also common.
 
 We recommend using "Search Pane" in GoldenDict to have access to the lookup hints (menu View\|Search Pane). 
 

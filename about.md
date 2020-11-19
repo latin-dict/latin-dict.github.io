@@ -12,7 +12,7 @@ All questions about the project should be sent to this address: <span id="addres
 
 # Legal
 
-Unless otherwise indicated, the content of the website is available under the [Creative Commons Zero v1.0 Universal](https://github.com/latin-dict/latin-dict.github.io/blob/main/LICENSE) license.
+Unless otherwise indicated, content of the website is available under the [Creative Commons Zero v1.0 Universal](https://github.com/latin-dict/latin-dict.github.io/blob/main/LICENSE) license.
 
 Picture of the reading girl is taken from the [ClipArt ETC](https://etc.usf.edu/clipart/) (Free Classroom License).
 
