@@ -8,7 +8,7 @@ categories: [general]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-Full title of the book is "Diccionario auxiliar español-latino para el uso moderno del latín". It contains some general lexis, though does not have such frequent words as "andar" or "comer", and is aimed at more specialized terms of the modern life.
+The book "Diccionario auxiliar español-latino para el uso moderno del latín" was compiled by José Juan Del Col (1925-2018), former rector of El Instituto Superior "Juan XXIII" de Bahía Blanca (Argentina). It contains some general lexis, though does not have such frequent words as "andar" or "comer", and is aimed at more specialized terms of the modern life.
 
 
 ## Download
@@ -26,6 +26,8 @@ Source files are in the [github repository][1].
 # Sources
 
 1. Del Col, Jose Juan. _Diccionario auxiliar español-latino para el uso moderno del Latín._ Instituto Superior Juan XXIII, Bahía Blanca, 2007. URL: <http://www.juan23.edu.ar/latin/diccionario.html>.
+
+There was some information, such as [this](information), about preparation of the second edition of the dictionary, but we have no information was it ever published or not.
 
 
 # States and limitations
