@@ -4,16 +4,21 @@ author: Wagner
 year: 1878
 tags: [Latin, French]
 nickname: Wagner1878
-comment: suspended
+comment: draft
 categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-This phraseological dictionary of **Latin** language contains translation of words to **French**, synonyms, antonyms, adjectives or adverbs applicable to these words, and example phrases from classic Latin works. Addendum folds in an index of Latin neologisms **[Lat-Lat]**, profesisonal lexicon **[Fra-Lat]**, and **French-Latin** dictionary.
+This phraseological dictionary of **Latin** language containing translations of words to **French** accompanied with synonyms, antonyms, adjectives or adverbs applicable to these words, and example phrases from classic Latin works. Addendum folds in a list of Latin barbarisms, professional ("militari, civili sacroque") and general **French-Latin** dictionaries.
 
-**Early developer version**; part 1/18 — words from A to ANGUSTUS. [Full version of the dictionary][3] (indexed page scans) is available on the [web-site of Godmy][4] (also known as Martinus Bohemus). Personally I am not interested in this dictionary, so future development is not expected to be active.
+**Note:** This dictionary currently is being transcribed (see Sources). To the date, our version contains 8 of 18 parts (from **A** to **ITO**), there are rare errors. Will be updated in the future.
 
-For download see [Release][101] section; development version and source files are in the [github repository][1].
+[Full version of the dictionary][11] (indexed page scans) is available on the [Godmy's web-site][12].
+
+
+## Download
+
+[Download][2] files compiled for dictionary shells. Format Slob is recommended for GoldenDict, read [documentation][3] about other applications.
 
 
 ## Exemplum
@@ -24,32 +29,19 @@ For download see [Release][101] section; development version and source files ar
 
 ## Sources
 
-1. Wagner, Franz S. J.; Borgnet, Auguste. _Lexicon latinum seu Corpus Phraseologiæ._ Brugis, 1878. URL: <https://archive.org/details/LexiconLatinum> \[Accessed 4 March 2019\].
-1. On-going transcribe project. URL: <https://www.pgdp.net/c/project.php?id=projectID5b3d9b5f27ee1> \[Accessed 4 March 2019\].
-
-
-## Usage guidelines
-
-XDXF edition has embedded functionality for hiding citations (see exempla above) which requires using [special styles][2] different (**sic!**) from [custom styles][103] recommended for our dictionaries (they could be concatenated though).
-
-
-## States and limitations
-
-Format and structure of the dictionary hardly fit the XDXF format. _Draft version_ fails test agains DTD schema and probably will diverge more from the XDXF format in future editions. This file was tested only in GoldenDict and could be incompatible with other dictionary shells.
+1. Wagner, Franz S. J.; Borgnet, Auguste. _Lexicon latinum seu Corpus Phraseologiæ._ Brugis, 1878. URL: <https://archive.org/details/wagnerlexiconlatinum>.
+1. On-going transcribe project. URL: <https://www.pgdp.net/c/project.php?id=projectID5b3d9b5f27ee1>.
 
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
+[![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/blob/master/Wagner1878/article-style.css
-[3]: http://www.lexica.linguax.com/wagner.php
-[4]: http://www.lexica.linguax.com/
-
-{% include dicitonary_ref.md %}
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
+[3]: {{ site.baseurl }}{% link docs/docs.md %}
+[11]: http://www.lexica.linguax.com/wagner.php
+[12]: http://www.lexica.linguax.com/
 
