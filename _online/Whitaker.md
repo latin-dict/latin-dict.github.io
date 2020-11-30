@@ -6,7 +6,7 @@ categories: [latin]
 ---
 # {{ page.title }}
 
-[{{ page.title }}]({{ page.website }}) is a morphological analyzer and simple **Latin-English** dictionary made by William Whitaker in 1993–2007. It contains about 39,000 articles and can do several trick to recognize words with variatibve spelling or Medieval forms.
+[{{ page.title }}]({{ page.website }}) is a morphological analyser and simple **Latin-English** dictionary made by William Whitaker in 1993–2007. It contains about 39,000 articles and can do several trick to recognize words with variate spelling or Medieval forms.
 
 
 ## Download
@@ -21,7 +21,7 @@ categories: [latin]
 
 ## States and limitations
 
-We tried to reformat every possible output, but it is likely you will find some unrecognized lines or unknown abbreviations. [Contact us][3], please, about such problems or open issue in the [GitHub repository][4].  
+We tried to reformat every possible output, but it is likely you will find some unrecognized lines or unknown abbreviations. [Contact us][3], please, about such problems or open issue in the [GitHub repository][4].
 
 
 ## License
