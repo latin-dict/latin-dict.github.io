@@ -19,6 +19,11 @@ categories: [latin]
 {% include img-viewer.html img="img/Whitaker-1.png" id="1" %}
 
 
+## Usage guidelines
+
+Dictionary sources, frequencies and other attributes are explained in the [application's documentation](http://archives.nd.edu/whitaker/wordsdoc.htm#DICTIONARY).
+
+
 ## States and limitations
 
 We tried to reformat every possible output, but it is likely you will find some unrecognized lines or unknown abbreviations. [Contact us][3], please, about such problems or open issue in the [GitHub repository][4].

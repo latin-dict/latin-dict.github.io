@@ -4,14 +4,14 @@ author: Wagner
 year: 1878
 tags: [Latin, French]
 nickname: Wagner1878
-comment: draft
+comment: incomplete
 categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
 This phraseological dictionary of **Latin** language containing translations of words to **French** accompanied with synonyms, antonyms, adjectives or adverbs applicable to these words, and example phrases from classic Latin works. Addendum folds in a list of Latin barbarisms, professional ("militari, civili sacroque") and general **French-Latin** dictionaries.
 
-**Note:** This dictionary currently is being transcribed (see Sources). To the date, our version contains 8 of 18 parts (from **A** to **ITO**), there are rare errors. Will be updated in the future.
+**Note:** This dictionary currently is being transcribed (see Sources). To the date, our version contains 9 of 18 parts (from **A** to **Miseria**), there are rare errors. Will be updated in the future.
 
 [Full version of the dictionary][11] (indexed page scans) is available on the [Godmy's web-site][12].
 
