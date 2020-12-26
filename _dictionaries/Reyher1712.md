@@ -24,6 +24,7 @@ Picture below shows articles after correction. Most of the articles are currentl
 
 {% include img-viewer.html img="img/Reyher1712-1.png" id="1" %}
 {% include img-viewer.html img="img/Reyher1712-2.png" id="2" %}
+{% include img-viewer.html img="img/Reyher1712-3.png" id="3" %}
 
 
 # Sources

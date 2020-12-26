@@ -13,7 +13,7 @@ Full tilte: "Lexicon Latinum seu Universae Phraseologiae Corpus Congestum", auth
 
 This phraseological dictionary of **Latin** language containing translations of words to **French** accompanied with synonyms, antonyms, adjectives or adverbs applicable to these words, and example phrases from classic Latin works. Addendum folds in a list of Latin barbarisms, general and professional ("militari, civili sacroque") **French-Latin** dictionaries.
 
-**Note:** This dictionary currently is being transcribed (see Sources). To the date, our version contains 9 of 18 parts (from **A** to **Miseria**), there are rare errors. Will be updated in the future.
+**Note:** This dictionary currently is being transcribed (see Sources). To the date, our version contains 10 of 18 parts (from **A** to **Opusculum**), there are rare errors. Will be updated in the future.
 
 [Full version of the dictionary][11] (indexed page scans) is available on the [Godmy's web-site][12].
 
@@ -33,6 +33,11 @@ This phraseological dictionary of **Latin** language containing translations of 
 
 1. Wagner, Franz S. J.; Borgnet, Auguste (translator). _Lexicon latinum seu Corpus Phraseologiae._ Brugis, 1878. URL: <https://archive.org/details/wagnerlexiconlatinum>.
 1. On-going transcribe project. URL: <https://www.pgdp.net/c/project.php?id=projectID5b3d9b5f27ee1>.
+
+
+## States and limitation
+
+Orthography of the dictionary generally follows modern spelling of the Latin words but sometimes deviates: "coelum" (caelum), "coena" (cena) or "moeror" (maeror), but "femina". 
 
 
 ## License

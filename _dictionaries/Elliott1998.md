@@ -10,7 +10,7 @@ categories: [scientific]
 
 A compilation of abbreviations found in Latin epigraphy and assembled from digital texts of all Latin inscriptions published in L'Année Épigraphique between 1888 and 1993.
 
-It **is not** a list of abbreviations used in texts, such as "e.g." or "v.g.", but acronyms found in lapidary inscriptions, such as steles or gravestone.
+It **is not** a list of abbreviations used in texts, such as "e.g." or "v.g.", but acronyms found in lapidary inscriptions, such as steles or gravestones.
 
 
 ## Download
