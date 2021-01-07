@@ -2,6 +2,7 @@
 title: Eulexis
 description: morphological analyzer, dictionary
 website: https://outils.biblissima.fr/en/eulexis/index.php
+nickname: Eulexis-html
 categories: [greek]
 ---
 # {{ page.title }}
@@ -11,7 +12,7 @@ categories: [greek]
 
 ## Download
 
-Current version is [v1.0 (October 16, 2020)][2].
+[Download][2] the most recent version and add file `index.html` to GoldenDict following the [guide for HTML dictionaries][4].
 
 
 ## Exemplum
@@ -30,20 +31,12 @@ abgdezhqiklmncoprsstufxywfk
 ```
 
 
-## Usage guidelines
-
-Add file `index.html` to GoldenDict following the [guide for HTML dictionaries][4].
-
-
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
+[![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
-
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-16
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
 [3]: {{ site.baseurl }}{% link _online/Alpheios.md %}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries

@@ -60,4 +60,3 @@ This work is distributed as [Public Domain](http://creativecommons.org/publicdom
 [1]: https://github.com/latin-dict/{{ page.nickname }}
 [2]: https://github.com/latin-dict/{{ page.nickname }}/releases
 [3]: {{ site.baseurl }}{% link docs/docs.md %}
-[4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries
