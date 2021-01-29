@@ -10,6 +10,8 @@ collections:
     output: true
   online:
     output: true
+  posts:
+    output: true
 
 defaults:
   - scope:
@@ -28,10 +30,6 @@ defaults:
       layout: "default"
 
 plugins:
-  - jekyll-paginate
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
-paginate: 11
-
