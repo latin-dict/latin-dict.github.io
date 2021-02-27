@@ -10,9 +10,9 @@ categories: [synonyms, latin]
 
 Full title is "Ausonii Popmae frisii de differentiis verborum cum additamentis Ioannis Friderici Hekelii, Adami Danielis Richteri, Ioannis Christiani Messerschmidii et Thomae Vallaurii qui opus diligentissime retractavit".
 
-Dictionary of **Latin** synonyms ("osculum" vs "suavium"), homonyms ("arundo" vs "hirundo") or paronymous words ("cedere" vs "accedere") with explanations in **Latin**. One pair of Greek words is discussed (Ἔπαινος vs Ἐγκώμιον). There are sparse Greek, Italian, French and German sentences.
+Dictionary of **Latin** synonyms ("osculum" vs "suavium"), homonyms ("arundo" vs "hirundo"), or paronymous words ("cedere" vs "accedere") explained in **Latin**. There are rare articles dedicated to **Ancient Greek** (Ἔπαινος vs Ἐγκώμιον), and sparse Italian, French, and German commentaries.
 
-Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book, but in XVII-XVIII centuries it was often published together with "De differentiis verborum". It is not included into our edition.
+Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book, but in XVII-XVIII centuries it was often printed together with "De differentiis verborum". It is not included into our edition.
 
 
 ## Download

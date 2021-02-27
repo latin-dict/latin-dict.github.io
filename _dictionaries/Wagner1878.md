@@ -4,7 +4,7 @@ author: Wagner
 year: 1878
 tags: [Latin, French]
 nickname: Wagner1878
-comment: incomplete
+comment: draft
 categories: [synonyms]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})

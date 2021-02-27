@@ -7,20 +7,16 @@ title: Documentation
 
 Latin is an inflected language, so a word could have several forms but dictionaries usually contain only its normal form, such as nominative singular for nouns. For this reason, one cannot simply copy an unknown word into GoldenDict, but has to manually type its correct form.
 
-Hunspell is a spell checking system, also able to produce lemmas, i.e. normal forms of the words, so, for example, word "puellam" will be transformed to "puella", which significantly simplifies work with dictionaries.
+Hunspell is a spell checking system, also able to produce lemmas, i.e. normal forms of the words, so, for example, word "puellam" will be transformed to "puella", which significantly simplifies work with dictionaries. Other examples of normalization are ligatures, "pæne" > "paene", and diacritics, "curâ" or "malè".
 
-Other examples of normalization are ligatures, "pæne" > "paene", and diacritics, "curâ" or "malè". Hunspell produces several permutations of the original word to handle variate spelling, so suggestion for the word "coelum" will include "caelum".
+**Note:** Hunspell helps finding lemmas of Latin language, but it does not work so with Ancient Greek.
 
 Hunspell by itself needs a dictionary. To the date we could choose between two variants:
 
 1. Dictionary by [Karl Zeiler and Jean-Pierre Sutto][1]
 1. Dictionary by [Konrad Kokoszkiewicz][2] (at the very bottom of the page)
 
-The first dictionary is the most universal, the second contains strictly classical lexicon (to the end of 2nd century AD). Both dictionaries are indifferent to the spelling:
-
-> such spellings as "uua", "uva", "vua" and "vva" are all accepted.
-
-Each dictionary would work fine with GoldenDict. Additionally, they could be used for spellchecking in Libre Office, Chrome, Firefox, &c.
+The first dictionary is the most universal, the second contains strictly classical lexicon (to the end of 2nd century AD). Each dictionary should work fine with GoldenDict. Additionally, they could be used for spellchecking in Libre Office, Chrome, Firefox, &c.
 
 
 # Setting up
