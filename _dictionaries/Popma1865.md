@@ -33,7 +33,7 @@ Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book
 
 ## States and limitations
 
-Text of this book is being transcribed (70% on Feb. 26, 2021), so part of the dictionary is still represented as full page images.
+Text of this book is being transcribed (80% on Apr. 1, 2021), so part of the dictionary is still represented as full page images.
 
 
 ## License
