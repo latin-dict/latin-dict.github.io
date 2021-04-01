@@ -16,7 +16,7 @@ Hunspell by itself needs a dictionary. To the date we could choose between two v
 1. Dictionary by [Karl Zeiler and Jean-Pierre Sutto][1]
 1. Dictionary by [Konrad Kokoszkiewicz][2] (at the very bottom of the page)
 
-The first dictionary is the most universal, the second contains strictly classical lexicon (to the end of 2nd century AD). Each dictionary should work fine with GoldenDict. Additionally, they could be used for spellchecking in Libre Office, Chrome, Firefox, &c.
+The first dictionary is the most universal, the second contains strictly classical lexicon (to the end of 2nd century AD). Each dictionary should work fine with GoldenDict. Additionally, they could be used for spellchecking in LibreOffice, Chrome, Firefox, &c.
 
 
 # Setting up
@@ -27,7 +27,7 @@ The first dictionary is the most universal, the second contains strictly classic
 
 Procedure is simple:
 
-1. [Download the dictionary](hunspell-la.zip) and extract files.
+1. [Download the dictionary](hunspell-la.zip) and extract files (Karl Zeiler's variant).
 1. Start GoldenDict, open menu Edit > Dictionaries, tab Sources > Morphology.
 1. Change "Path to a directory with Hunspell/Myspell dictionaries" to the folder where you saved the files. (**Linux:** if you installed dictionary as package, then the correct path will be "/usr/share/hunspell".)
 1. Enable (check on) "Latin Morphology" in the list.
@@ -38,15 +38,15 @@ Procedure is simple:
 
 ## GoldenDict Mobile
 
-Copy files "la_LA.aff" and "la_LA.dic" to the phone's SD card, into the GoldenDict folder. Run application, they will be recognized as a new dictionary.
+Copy files `la_LA.aff` and `la_LA.dic` to the phone's SD card, into the GoldenDict folder. Run application, it will recognize them as a new dictionary.
 
-## BlueDict
+## BlueDict (mobile)
 
 Mobile application [BlueDict][5] for Android could use special [morphology dictionary][6]. Registration is required for download from the website (all in Chinese). Probably, this file could be used in other applications reading MDict format, but it was not tested.
 
-## MDict
+## MDict (mobile)
 
-[MDict][4] is the official application for the MDict format, and it supports unmodified Hunspell dictionaries. Files "la_LA.aff" and "la_LA.dic" should be copied into the "/mdict/data/" folder.
+[MDict][4] supports unmodified Hunspell dictionaries. Files `la_LA.aff` and `la_LA.dic` should be copied into the "/mdict/data/" folder.
 
 
 [1]: https://extensions.libreoffice.org/extensions/latin-spelling-and-hyphenation-dictionaries
