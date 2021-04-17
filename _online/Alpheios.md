@@ -9,6 +9,10 @@ categories: [greek]
 
 [{{ page.title }}]({{ page.website }}) provides a set of tools for reading classical literatures, and particularly an analyzer of **Ancient Greek morphology**. This service is based on a modified Morpheus engine originally developed for [Perseus Digital Library](http://www.perseus.tufts.edu/).
 
+<span style="background-color: #ffa6a6; padding: 1em;">
+This dictionary was superseded with off-line [Morphologia Graeca][5] and will not be updated in the future.
+</span>
+
 
 ## Download
 
@@ -35,3 +39,4 @@ This work is distributed as [Public Domain](http://creativecommons.org/publicdom
 [2]: https://github.com/latin-dict/{{ page.nickname }}/releases
 [3]: {{ site.baseurl }}{% link _online/Eulexis.md %}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries
+[5]: {{ site.baseurl }}{% link _dictionaries/morphology-grc.md %}

@@ -13,7 +13,7 @@ Morphology dictionary of **Ancient Greek** language. It contains 114,723 lemmas 
 
 ## Download
 
-[Download][2] files compiled for dictionary shells. Files for other dictionary shells can be produced [by request][10].
+[Download][2] files compiled for dictionary shells. Files for other formats can be produced [by request][10].
 
 Similar dictionaries:
 

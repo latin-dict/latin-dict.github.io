@@ -10,7 +10,7 @@ categories: [greek]
 [{{ page.title }}]({{ page.website }}) is a lemmatiser for **Ancient Greek** texts. Our adaptaion contains lemmatization, morphological analyzing, and short English definitions (one-two words). 
 
 <span style="background-color: #ffa6a6; padding: 1em;">
-This dictionary was superseded with [off-line version][5] and will not be updated in the future.
+This dictionary was superseded with off-line [Morphologia Graeca][5] and will not be updated in the future.
 </span>
 
 
