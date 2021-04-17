@@ -9,6 +9,10 @@ categories: [greek]
 
 [{{ page.title }}]({{ page.website }}) is a lemmatiser for **Ancient Greek** texts. Our adaptaion contains lemmatization, morphological analyzing, and short English definitions (one-two words). 
 
+<span style="background-color: #ffa6a6; padding: 1em;">
+This dictionary was superseded with [off-line version][5] and will not be updated in the future.
+</span>
+
 
 ## Download
 
@@ -40,3 +44,4 @@ This work is distributed as [Public Domain](http://creativecommons.org/publicdom
 [2]: https://github.com/latin-dict/{{ page.nickname }}/releases
 [3]: {{ site.baseurl }}{% link _online/Alpheios.md %}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries
+[5]: {{ site.baseurl }}{% link _dictionaries/morphology-grc.md %}
