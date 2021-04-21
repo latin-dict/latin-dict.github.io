@@ -41,7 +41,7 @@ Source files see on the [CAMENA project's website][1].
 
 1. Text in TEI format missing correct markup of some headwords, so about 900 of the articles are excluded from our digital version. Most of them are redirections, such as:
 > **ACRITAS**, **ACRITVDO**, **ACRITER**, _Vid._ ACER, Adi.
-1. If an article contains several headwords, transcribers regularly marked only first one. For that reason, articles in our dictionary are indexed only by the first key.
+1. If an article contains several headwords, transcribers regularly marked only the first one. For that reason, articles in our dictionary are indexed only by the first key.
 1. Articles in the paper book are arranged not in alphabetical, but etymological order. So is in the attached scanned pages.
 1. Almost every article is accompanied with literal translations of the term in Greek, so they could be used for building Greek index of the book. (Contact us if you think it would be useful.)
 > **AMO**, are. [φιλέω, ἐράω, ἀγαπῶ, στέργω] Amare _dicuntur (quid-quid sit de origine vocis, forte simplicis et primitiuae) qui alterius bonis gaudent, cum illo esse cupiunt, etc._ […]
@@ -66,4 +66,3 @@ See [CAMENA website][5] for additional information about the dictionary.
 [5]: https://www2.uni-mannheim.de/mateo/camenaref/gesner.html
 
 {% include dicitonary_ref.md %}
-

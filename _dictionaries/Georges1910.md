@@ -15,11 +15,9 @@ This dictionary is available on-line on the [Zeno.org](http://www.zeno.org/nid/2
 
 ## Download
 
-Current version is [v1.0 (September 18, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
+[Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
-Version with compact articles, just as in the printed book, was prepared by Thomas Vogt. Take it from [FireDict website][4] (StarDict format).
-
-File in TEI format is available in [GitHub repository][3].
+Version with compact articles, just as in the printed book, was prepared by Thomas Vogt. It can be downloaded from the [FireDict website][10] (StarDict format).
 
 
 ## Exemplum
@@ -35,23 +33,17 @@ File in TEI format is available in [GitHub repository][3].
 
 # States and limitations
 
-There are about 600 of incomplete keywords, such as "Begräbnisort, -platz, -stätte". If you desire to improve this dictionary, please, edit file `need_fix.json` from [GitHub repository][3] and [contact me][5].
+There are about 600 of incomplete keywords, such as "Begräbnisort, -platz, -stätte". If you desire to improve this dictionary, please, edit file `need_fix.json` from the [GitHub repository][1] and [contact me][11].
 
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
-
-This work is distributed as <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">Public Domain</a>.
+[![Public Domain Mark](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
-
-[1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-09-18
-[2]: {{ site.baseurl }}{% link docs/docs.md %}
-[3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[4]: https://tuxor1337.frama.io/firedict/dictionaries.html
-[5]: {{ site.baseurl }}{% link about.md %}
-
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
+[3]: {{ site.baseurl }}{% link docs/docs.md %}
+[10]: https://tuxor1337.frama.io/firedict/dictionaries.html
+[11]: {{ site.baseurl }}{% link about.md %}

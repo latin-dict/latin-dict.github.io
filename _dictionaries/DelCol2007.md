@@ -13,9 +13,7 @@ The book "Diccionario auxiliar español-latino para el uso moderno del latín" w
 
 ## Download
 
-Current version is [v1.1 (October 13, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
-
-Source files are in the [github repository][1].
+[Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 
 ## Exemplum
@@ -42,11 +40,9 @@ All our attempts to contact with the copyright holder, Instituto Superior "Juan 
 [![CC BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)\
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-If the copyright holder decides to distribute the dictionary under a less restricted license, our edition can be used with these new legal terms, including the Public Domain or CC0.
+If the copyright holder decides to distribute this dictionary under a less restricted license, our edition can be used with these new legal terms, including the Public Domain or CC0.
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-10-13
-
-{% include dicitonary_ref.md %}
-
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
+[3]: {{ site.baseurl }}{% link docs/docs.md %}

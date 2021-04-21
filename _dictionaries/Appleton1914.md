@@ -8,7 +8,7 @@ categories: [latin]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-This **Latin**–**Latin** dictionary is made of word lists from two textbooks written by Reginald Bainbridge Appleton (see sources below) and covers only lexicon used in these texts. Dictionaries are intended to be used by the 4th-term students of Latin classes, so explanations are very simple.
+This **Latin–Latin** dictionary is made of word lists from two textbooks written by Reginald Bainbridge Appleton (see sources below) and covers only lexicon used in these texts. Dictionaries are intended to be used by the 4th-term students of Latin classes, so explanations are very simple.
 
 Total number of the articles is 2183, including 37 illustrations:
 
@@ -26,9 +26,7 @@ All words are macronized.
 
 ## Download
 
-Current version is [v1.1 (July 19, 2019)][2]. Format Slob is recommended for GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
-
-Development version and source files are in the [github repository][1].
+[Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 
 ## Exemplum
@@ -39,13 +37,13 @@ Development version and source files are in the [github repository][1].
 
 ## Sources
 
-1. Appleton, R. B.; Jones, W. H. S. _Pons tironum._ Project Gutenberg, 2018. URL: <http://www.gutenberg.org/ebooks/57232> \[Accessed 19 July 2019\].
-1. Appleton, R. B. _Fabulae, virginibus puerisque aut narrandae aut recitandae._ Project Gutenberg, 2018. URL: <http://www.gutenberg.org/ebooks/57615> \[Accessed 19 July 2019\].
+1. Appleton, R. B.; Jones, W. H. S. _Pons tironum._ Project Gutenberg, 2018. URL: <http://www.gutenberg.org/ebooks/57232>.
+1. Appleton, R. B. _Fabulae, virginibus puerisque aut narrandae aut recitandae._ Project Gutenberg, 2018. URL: <http://www.gutenberg.org/ebooks/57615>.
 
 
 ## States and limitations
 
-Forms of the words in the original books are compatible with [Hunspell dictionary][102]. Looking for a verb use its first-person singular present form ("amo", non "amare"), or singular nominative for nouns ("amica", non "amicas").
+Forms of the words in the original books are compatible with Hunspell dictionary. Looking for a verb use its first-person singular present form ("amo", non "amare"), or singular nominative for nouns ("puella").
 
 
 ## License
@@ -54,8 +52,6 @@ Forms of the words in the original books are compatible with [Hunspell dictionar
 This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-27
-
-{% include dicitonary_ref.md %}
-
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
+[3]: {{ site.baseurl }}{% link docs/docs.md %}

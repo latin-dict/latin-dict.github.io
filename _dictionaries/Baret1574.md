@@ -10,12 +10,12 @@ categories: [general]
 
 A dictionary translating words from **English** to **Latin**, **French** and occasionally **Ancient Greek**. There are 5,482 dictionary articles. Although the transcript preserves XVIth century English language, all keywords were indexed following the modern spelling, so look up for "girl" and "kiss" (not "girll" or "kisse").
 
+On-line version can be accessed on the [LEME website][10].
+
 
 ## Download
 
 [Download][2] files compiled for dictionary shells. Format Slob is recommended for desktop GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
-
-On-line version can be accessed on the [LEME website][10].
 
 
 ## Exemplum
