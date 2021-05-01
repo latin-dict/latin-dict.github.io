@@ -43,6 +43,13 @@
       </div>
       <div id="content">
         {{ content }}
+        {% if page.nickname %}
+        <div id="stat" style="float: right;">
+          <a href="https://tooomm.github.io/github-release-stats/?username=latin-dict&repository={{ page.nickname }}">
+            <img src="{{ site.baseurl }}/assets/img/bar-chart-7-16.png" />
+          </a>
+        </div>
+        {% endif %}
       </div>
       <div id="footer">
         <p>© {{ site.author }} - Powered by Jekyll.</p>
