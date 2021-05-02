@@ -13,14 +13,14 @@ Thesaurus with short explanations of the words in **Latin**, and following exten
 
 Text of the dictionary was partially transcribed—only first sentence or several words—by the team of Dr. Wilhelm Kühlmann from Heidelberg University. The remaining parts of the articles should be read from the attached scanned pages.
 
-Addendum ["Latinitatis Index Etymologicus"][3] is not included into our version. If you find it important, please, contact us.
+Addendum ["Latinitatis Index Etymologicus"][12] is not included into our version. If you find it important, please, contact us.
 
 
 ## Download
 
-Current version is [v1.1 (October 31, 2020)][2]. Dictionary is encoded into Slob format and is designed to be used in desktop GoldenDict. It is not suitable for mobile use, so we do not provide mobile formats.
+[Download][2] files compiled for dictionary shells. This dictionary is made in the Slob format only, because it is not suitable for mobile devices.
 
-Source files see on the [CAMENA project's website][1].
+Source files see on the [CAMENA project's website][11].
 
 
 ## Exemplum
@@ -39,30 +39,26 @@ Source files see on the [CAMENA project's website][1].
 
 ## States and limitations
 
-1. Text in TEI format missing correct markup of some headwords, so about 900 of the articles are excluded from our digital version. Most of them are redirections, such as:
+1. Text in TEI format is missing correct markup of some headwords, so about 900 of the articles are excluded from our digital version. Most of them are redirections, such as:
 > **ACRITAS**, **ACRITVDO**, **ACRITER**, _Vid._ ACER, Adi.
 1. If an article contains several headwords, transcribers regularly marked only the first one. For that reason, articles in our dictionary are indexed only by the first key.
 1. Articles in the paper book are arranged not in alphabetical, but etymological order. So is in the attached scanned pages.
 1. Almost every article is accompanied with literal translations of the term in Greek, so they could be used for building Greek index of the book. (Contact us if you think it would be useful.)
 > **AMO**, are. [φιλέω, ἐράω, ἀγαπῶ, στέργω] Amare _dicuntur (quid-quid sit de origine vocis, forte simplicis et primitiuae) qui alterius bonis gaudent, cum illo esse cupiunt, etc._ […]
 
-See [CAMENA website][5] for additional information about the dictionary.
+See [CAMENA website][13] for additional information about the dictionary.
 
 
 ## License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">
-<img alt="Creative Commons License"
-     style="border-width:0"
-     src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
-</a><br>This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>.
+[![CC BY-SA](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/)\\
+This work is licensed under a [Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
 
 
-
-[1]: https://www2.uni-mannheim.de/mateo/camenahtdocs/camena.html
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-10-31
-[3]: http://www.archive.org/stream/novuslinguaeeter04gesn#page/n576/mode/1up
-[4]: https://www2.uni-mannheim.de/mateo/camenahtdocs/camena.html#04
-[5]: https://www2.uni-mannheim.de/mateo/camenaref/gesner.html
-
-{% include dicitonary_ref.md %}
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
+[3]: {{ site.baseurl }}{% link docs/docs.md %}
+[4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries
+[11]: https://www2.uni-mannheim.de/mateo/camenahtdocs/camena.html
+[12]: http://www.archive.org/stream/novuslinguaeeter04gesn#page/n576/mode/1up
+[13]: https://www2.uni-mannheim.de/mateo/camenaref/gesner.html
