@@ -10,14 +10,12 @@ categories: [synonyms]
 
 Full title is "The synonymes of the Latin language, alphabetically arranged; with critical dissertations upon the force of its prepositions, both in a simple and a compounded state".
 
-In fact, these are two dictionaries unde one cover, a dictionary of **Latin** synonyms and a handbook of **Latin** prepositions. Explications in **English** are extensive, take 2-3 pages on average for groups of synonyms and up to 12 pages for prepositions. Total number of articles is 371.
+In fact, these are two dictionaries unde one cover, a dictionary of **Latin** synonyms and a handbook of **Latin** prepositions. Explanations in **English** are extensive, take 2-3 pages on average for groups of synonyms and up to 12 pages for prepositions. Total number of articles is 371.
 
 
 ## Download
 
-Current version: [v1.1][2] (Augusts 20, 2019). Recommended format for GoldenDict is Slob, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells.
-
-Source files see in [github repository][1].
+[Download][2] files compiled for dictionary shells or view [source files][1]. Currently, only in the Slob format, [contacts me][10] if additional formats are desired.
 
 
 ## Exemplum
@@ -28,23 +26,16 @@ Source files see in [github repository][1].
 
 ## Source
 
-1. Hill, John, F. R. S. E. _The synonymes of the Latin language_. Edinburgh, 1804. URL: <https://archive.org/details/synonymesoflatin00hilluoft> \[Accessed 8 April 2019\].
-
-
-## Usage guidelines
-
-Original headwords were replaced with lemmas harmonized with [Hunspell dicitonary][102].
+1. Hill, John, F. R. S. E. _The synonymes of the Latin language_. Edinburgh, 1804. URL: <https://archive.org/details/synonymesoflatin00hilluoft>.
 
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
+[![Public Domain Mark](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2019-08-20
-{% include dicitonary_ref.md %}
-
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
+[3]: {{ site.baseurl }}{% link docs/docs.md %}
+[10]: {{ site.baseurl }}{% link about.md %}
