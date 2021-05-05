@@ -2,6 +2,7 @@
 title: Forcellinus Electronicus Novus
 description: Latin-Latin dictionary
 website: http://www.lexica.linguax.com/forc2.php
+nickname: Forcellini
 categories: [latin]
 ---
 # {{ page.title }}

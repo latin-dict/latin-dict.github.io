@@ -2,6 +2,7 @@
 title: Whitaker's Words
 description: morphological analyzer; Latin-English dictionary
 website: http://archives.nd.edu/words.html
+nickname: Whitaker
 categories: [latin]
 ---
 # {{ page.title }}
