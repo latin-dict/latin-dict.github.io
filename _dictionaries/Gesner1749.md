@@ -52,13 +52,12 @@ See [CAMENA website][13] for additional information about the dictionary.
 ## License
 
 [![CC BY-SA](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/)\\
-This work is licensed under a [Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
 
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}
 [2]: https://github.com/latin-dict/{{ page.nickname }}/releases
 [3]: {{ site.baseurl }}{% link docs/docs.md %}
-[4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries
 [11]: https://www2.uni-mannheim.de/mateo/camenahtdocs/camena.html
 [12]: http://www.archive.org/stream/novuslinguaeeter04gesn#page/n576/mode/1up
 [13]: https://www2.uni-mannheim.de/mateo/camenaref/gesner.html
