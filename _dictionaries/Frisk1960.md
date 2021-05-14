@@ -36,7 +36,7 @@ Dictionary articles were indexed using original headwords in both tonos and oxia
 
 ## License
 
-© 1960, Carl Winter, Universitätsverlag, gegr. 1822, GmbH., Heidelberg.
+© 1972, Carl Winter, Universitätsverlag, gegr. 1822, GmbH., Heidelberg.
 
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}

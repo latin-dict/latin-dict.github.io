@@ -14,7 +14,13 @@ I am open for cooperation. If you want to share your dictionary, join to a digit
 # News
 
 {% for post in site.posts limit:10 %}
+
+{% if post.version %}
+*  [{{ post.nickname }} {{ post.version }}]({{ site.baseurl }}{{ post.url }}) » _{{ post.date | date: "%Y-%m-%d" }}_
+{% else %}
 *  [{{ post.title }}]({{ site.baseurl }}{{ post.url }}) » _{{ post.date | date: "%Y-%m-%d" }}_
+{% endif %}
+
 {% endfor %}
 
 See [old news]({{ site.baseurl }}{% link news.md %}) or subscribe to [RSS feed](/feed.xml). 
