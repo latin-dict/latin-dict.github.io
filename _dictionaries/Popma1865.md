@@ -10,7 +10,7 @@ categories: [synonyms, latin]
 
 Full title is "Ausonii Popmae frisii de differentiis verborum cum additamentis Ioannis Friderici Hekelii, Adami Danielis Richteri, Ioannis Christiani Messerschmidii et Thomae Vallaurii qui opus diligentissime retractavit".
 
-Dictionary of **Latin** synonyms ("osculum" vs "suavium"), homonyms ("arundo" vs "hirundo"), or paronymous words ("cedere" vs "accedere") explained in **Latin**. There are rare articles dedicated to **Ancient Greek** (Ἔπαινος vs Ἐγκώμιον), and sparse Italian, French, and German commentaries.
+Dictionary of **Latin** synonyms ("osculum" vs "suavium"), homonyms ("arundo" vs "hirundo"), or paronymous words ("cedere" vs "accedere") explained in **Latin**. There are rare articles dedicated to **Ancient Greek** (Ἔπαινος vs Ἐγκώμιον), and sparse Italian, French, or German commentaries.
 
 Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book, but in XVII-XVIII centuries it was often printed together with "De differentiis verborum". It is not included into our edition.
 
@@ -23,17 +23,12 @@ Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book
 ## Exemplum
 
 {% include img-viewer.html img="img/Popma1865-3.png" id="1" %}
-{% include img-viewer.html img="img/Popma1865-4.png" id="2" %}
 
 
 ## Sources
 
 1. Popma, Ausonius von; Heckel, Johann Friedrich; Messerschmid, Johann Christian; Richter, Adam Daniel; Vallauri, Tommaso. _De differentiis verborum._ (2nd ed.) Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC>.
 1. — " —. Turin, 1870 (reprint). URL: <https://books.google.com/books?id=9i6Ogx8aCJIC>.
-
-## States and limitations
-
-Text of this book is being transcribed (80% on Apr. 1, 2021), so part of the dictionary is still represented as full page images.
 
 
 ## License
