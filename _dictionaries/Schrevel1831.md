@@ -2,7 +2,7 @@
 title: Lexicon manuale graeco-latinum et latino-graecum
 author: Schrevel
 year: 1831
-tags: [Greek, Latin]
+tags: [Ancient Greek, Latin]
 nickname: Schrevel1831
 comment: page index
 categories: [greek]

@@ -2,7 +2,7 @@
 title: Calepinus septem linguarum
 author: Gallicciolli
 year: 1778
-tags: [Latin]
+tags: [Latin, Italian, Hebrew, German, French, Spanish, Ancient Greek]
 nickname: Gallicciolli1778
 comment: page index
 categories: [latin]

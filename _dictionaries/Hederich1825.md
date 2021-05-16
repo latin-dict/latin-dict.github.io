@@ -2,7 +2,7 @@
 title: Novum lexicon manuale Graeco-Latinum et Latino-Graecum
 author: Hederich
 year: 1825
-tags: [Greek, Latin]
+tags: [Ancient Greek, Latin]
 nickname: Hederich1825
 comment: page index
 categories: [greek]

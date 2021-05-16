@@ -2,7 +2,7 @@
 title: Janua linguarum reserata
 author: Comenius
 year: 2014
-tags: [Greek, Latin]
+tags: [Ancient Greek, Latin]
 nickname: Comenius2014
 categories: [greek]
 ---

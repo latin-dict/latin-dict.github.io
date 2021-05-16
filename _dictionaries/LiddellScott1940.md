@@ -2,7 +2,7 @@
 title: A Greek-English Lexicon
 author: Liddell & Scott
 year: 1940
-tags: [Greek, English]
+tags: [Ancient Greek, English]
 nickname: LiddellScott1940
 categories: [greek]
 ---

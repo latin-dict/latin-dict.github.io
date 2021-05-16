@@ -2,7 +2,7 @@
 title: Diccionario Español-Griego-Latín
 author: López Pozo
 year: 1997
-tags: [Spanish, Greek, Latin]
+tags: [Spanish, Ancient Greek, Latin]
 nickname: LopezPozo1997
 categories: [general]
 ---

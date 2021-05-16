@@ -2,7 +2,7 @@
 title: Dictionary of Greek and Roman Geography
 author: Smith
 year: 1854
-tags: [Latin, Greek, English]
+tags: [Latin, Ancient Greek, English]
 nickname: Smith1854
 comment: encyclopaedia
 categories: [scientific]

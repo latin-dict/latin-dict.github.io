@@ -2,7 +2,7 @@
 title: A Dictionary of Greek and Roman Antiquities
 author: Smith
 year: 1890
-tags: [Latin, Greek, English]
+tags: [Latin, Ancient Greek, English]
 nickname: Smith1890
 comment: encyclopaedia
 categories: [scientific]

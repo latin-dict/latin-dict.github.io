@@ -2,7 +2,7 @@
 title: Novus linguae et eruditionis Romanae thesaurus
 author: Gesner
 year: 1749
-tags: [Latin, Latin]
+tags: [Latin]
 nickname: Gesner1749
 comment: page index
 categories: [scientific]

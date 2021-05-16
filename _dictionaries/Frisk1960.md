@@ -2,7 +2,7 @@
 title: Griechisches Etymologisches Wörterbuch
 author: Frisk
 year: 1960-1972
-tags: [Greek, German]
+tags: [Ancient Greek, German]
 nickname: Frisk1960
 categories: [greek]
 ---

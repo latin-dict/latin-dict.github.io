@@ -2,7 +2,7 @@
 title: Morphologia Graeca
 author: Verkerk
 year: 2020
-tags: [Greek]
+tags: [Ancient Greek]
 nickname: Morphologia-Graeca
 categories: [greek]
 ---

@@ -2,7 +2,7 @@
 title: Dictionnaire grec-français
 author: Bailly
 year: 2020
-tags: [Greek, French]
+tags: [Ancient Greek, French]
 nickname: Bailly2020
 categories: [greek]
 ---

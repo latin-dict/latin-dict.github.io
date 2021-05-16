@@ -2,7 +2,7 @@
 title: A Dictionary of Greek and Roman biography and mythology
 author: Smith
 year: 1873
-tags: [Latin, Greek, English]
+tags: [Latin, Ancient Greek, English]
 nickname: Smith1873
 comment: encyclopaedia
 categories: [scientific]
