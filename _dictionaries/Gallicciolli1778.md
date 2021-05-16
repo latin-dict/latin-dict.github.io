@@ -27,7 +27,7 @@ Additional information about this edition can be found on the [Textkit website][
 # Sources
 
 1. Facciolati, Jacobo; Gallicciolli, Giovanni Battista. _Calepinus septem linguarum, hoc est Lexicon latinum variarum linguarum interpretatione adjecta, ad usum Seminarii pluries emendatum, et auctum._ Ed. novissima. Venice, 1778. URL: <https://digibug.ugr.es/handle/10481/23367>.
-1. Page index and images were extracted from the PDF published on [Le Cercle latin de la Nouvelle-France][11].
+1. Page index and images were extracted from the PDF file published on the website [Le Cercle latin de la Nouvelle-France][11].
 
 
 ## Usage guidelines
