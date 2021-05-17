@@ -10,7 +10,7 @@ categories: [greek]
 
 Not to be confused with the [TLG project](http://stephanus.tlg.uci.edu/) of the University of California, Irvine.
 
-Thesaurus graecae linguae (Θησαυρὸς τῆς ἑλληνικῆς γλώσσης) with composed by Henri Estienne (lat. Henricus Stephanus) in 1572, and consequently improved in the following editions. Our computer version is based on the edition of Didot (Paris, 1831-1865).
+Thesaurus graecae linguae (Θησαυρὸς τῆς ἑλληνικῆς γλώσσης) was composed by Henri Estienne (lat. Henricus Stephanus) in 1572, and consequently improved in the following editions. Our computer version is based on the edition of Charles Benoît Hase (Paris, 1831-1865).
 
 Demo version contains whole vol. I (α–αλωφυτος) and is intended for testing and accumulating users ideas. I would like to hear (see [e-mail][5]) your opinion on the following questions:
 
