@@ -16,7 +16,7 @@ Demo version contains whole vol. I (α–αλωφυτος) and is intended for t
 
 * are you going to use it?
 * do you know a source of better scans?
-* do you need offline version?
+* do you need an offline version?
 * do you need PDF with booksmars?
 
 
@@ -28,6 +28,7 @@ Demo version contains whole vol. I (α–αλωφυτος) and is intended for t
 ## Exemplum
 
 {% include img-viewer.html img="img/Estienne1831-1.png" id="1" %}
+{% include img-viewer.html img="img/Estienne1831-2.jpg" id="2" %}
 
 
 ## Sources
@@ -37,7 +38,10 @@ Demo version contains whole vol. I (α–αλωφυτος) and is intended for t
 
 ## Usage guidelines
 
-Add file `index.html` to GoldenDict following the [guide for HTML dictionaries][4], but deactivate checkbox "as link" (step&nbsp;5).
+Add file `index.html` to GoldenDict following the [guide for HTML dictionaries][4], but on the step&nbsp;5 deactivate checkbox "as link".
+
+See [Explication siglorum](https://babel.hathitrust.org/cgi/pt?id=chi.102970715&view=1up&seq=14) for the format of the articles and used abbreviations.
+
 
 
 ## License
