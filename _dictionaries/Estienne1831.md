@@ -4,6 +4,7 @@ author: Estienne
 year: 1831-1865
 tags: [Ancient Greek, Latin]
 nickname: Estienne1831
+comment: page index
 categories: [greek]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
