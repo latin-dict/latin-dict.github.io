@@ -5,6 +5,15 @@ title: Dictionaries
 
 # Latin-Latin dictionaries
 
+Fast introduction into the Latin-Latin dictionaries:
+
+- brief and compact: [Laurenzi]({% link _dictionaries/Laurenzi1708.md %})
+- middle-sized: [Reyher]({% link _dictionaries/Reyher1712.md %}), [Gallicciolli]({% link _dictionaries/Gallicciolli1778.md %})
+- extensive: [Forcellini]({% link _online/Forcellini.md %}), [Gesner]({% link _dictionaries/Gesner1749.md %}), [TLL]({% link _dictionaries/ThLL.md %})
+
+These and other monolingual dictionaries:
+
+
 {% assign dicts = site.dictionaries | where: "categories","latin" | sort: "nickname" %}
 {% for dict in dicts %}
 
