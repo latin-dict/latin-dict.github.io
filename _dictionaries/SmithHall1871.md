@@ -4,18 +4,19 @@ author: Smith & Hall
 year: 1871
 tags: [English, Latin]
 nickname: SmithHall1871
-comment: suspended
+comment: draft
 categories: [general]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-**English-Latin** dictionary. Current state of the transcript (2019-05-21) does not allow to detect dictionary structure correctly, so in many cases formatting is broken. I am not going to fix it until the transcript be finished.
+**English-Latin** dictionary containing about 27,000 of articles. It is based on the transcript of Distributed Proofreaders (see Sources) which is not finished yet, so about 50% of the articles have still not been formatted.
 
-Another digital edition of this dictionary was made by [Johan Winge](https://github.com/Alatius), his version is available on-line on the [web-site Latinitium][2] and should be recommended to all users.
+Another digital edition of this dictionary was made by Johan Winge (@Alatius). His version is available on-line on the website [Latinitium][11] and should be recommended to all users because of its completeness.
 
-To the date, our XDXF version is the only known offline edition, so one could still find it useful.
 
-For download see [Release][101] section; development version and source files are in the [github repository][1].
+## Download
+
+[Download][2] files compiled for dictionary shells. <s>Format Slob is recommended for desktop GoldenDict, read</s> [<s>documentation</s>]({{ site.baseurl }}{% link docs/docs.md %}) <s>about other dictionary shells.</s> Files in XDXF and Logos formats only, more will be produced soon.
 
 
 ## Exemplum
@@ -25,19 +26,18 @@ For download see [Release][101] section; development version and source files ar
 
 ## Sources
 
-1. Smith, W.; Hall, T. D. _A copious and critical English-Latin dictionary._ New York, 1871. URL: <https://archive.org/details/copiouscriticale00smit> \[Accessed 11 March 2019\].
-1. On-going transcribe project. URL: <https://www.pgdp.net/c/project.php?id=projectID5775aeccac0c7> \[Accessed 11 March 2019\].
+1. Smith, W.; Hall, T. D. _A copious and critical English-Latin dictionary._ New York, 1871. URL: <https://archive.org/details/copiouscriticale00smit>.
+1. Distributed Proofreaders transcribe project. URL: <https://www.pgdp.net/c/project.php?id=projectID5775aeccac0c7> \[Accessed 10 June 2021\].
 
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
+[![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 
-[1]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-[2]: https://www.latinitium.com/smithhall
-{% include dicitonary_ref.md %}
+[1]: https://github.com/latin-dict/{{ page.nickname }}
+[2]: https://github.com/latin-dict/{{ page.nickname }}/releases
+[3]: {{ site.baseurl }}{% link docs/docs.md %}
+[11]: https://www.latinitium.com/smithhall
 
