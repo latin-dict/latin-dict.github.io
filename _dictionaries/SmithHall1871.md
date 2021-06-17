@@ -9,19 +9,20 @@ categories: [general]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-**English-Latin** dictionary containing about 27,000 of articles. It is based on the transcript of Distributed Proofreaders (see Sources) which is not finished yet, so about 50% of the articles have still not been formatted.
+**English-Latin** dictionary containing about 27,000 of articles. It is based on the transcript of Distributed Proofreaders (see Sources) which is not finished yet, so about 65% of the articles have still not been formatted. Therefore, do not inform me, please, about errors in the text, it will change a lot in the near future.
 
-Another digital edition of this dictionary was made by Johan Winge (@Alatius). His version is available on-line on the website [Latinitium][11] and should be recommended to all users because of its completeness.
+Another digital edition of this dictionary was made by Johan Winge (@Alatius). His version is available on-line on the website [Latinitium][11].
 
 
 ## Download
 
-[Download][2] files compiled for dictionary shells. <s>Format Slob is recommended for desktop GoldenDict, read</s> [<s>documentation</s>]({{ site.baseurl }}{% link docs/docs.md %}) <s>about other dictionary shells.</s> Files in XDXF and Logos formats only, more will be produced soon.
+[Download][2] files compiled for dictionary shells. Format Slob is recommended for desktop GoldenDict, read [documentation]({{ site.baseurl }}{% link docs/docs.md %}) about other dictionary shells. Files in XDXF and Logos formats are outdated.
 
 
 ## Exemplum
 
-{% include img-viewer.html img="img/SmithHall1871-1.png" %}
+{% include img-viewer.html img="img/SmithHall1871-1.png" id="1" %}
+{% include img-viewer.html img="img/SmithHall1871-2.png" id="2" %}
 
 
 ## Sources
