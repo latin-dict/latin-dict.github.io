@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140847555-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-140847555-1');
+</script>
+
+    
+
+
+
+
+    <link type="application/atom+xml" rel="alternate" href="https://latin-dict.github.io/feed.xml" title="Latin dictionaries" />
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Documentation | Latin dictionaries</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Documentation" />
+<meta name="author" content="Nikita Murzintcev" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://latin-dict.github.io/docs/hunspell.html" />
+<meta property="og:url" content="https://latin-dict.github.io/docs/hunspell.html" />
+<meta property="og:site_name" content="Latin dictionaries" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Documentation" />
+<script type="application/ld+json">
+{"url":"https://latin-dict.github.io/docs/hunspell.html","@type":"WebPage","author":{"@type":"Person","name":"Nikita Murzintcev"},"headline":"Documentation","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml" />
+    <link href="/assets/css/fonts.css" rel="stylesheet" type="text/css">
+    <link href="/assets/css/main.css" rel="stylesheet">
+    <link href="/assets/css/img-viewer.css" rel="stylesheet">
+    <link href="/assets/css/jekyll-github.css" rel="stylesheet">
+    
+  </head>
+  <body>
+    <div id="layout">
+      <div id="sidebar">
+        <div id="fullview">
+          <a href="/">
+            <img src="/assets/img/logo-girl.png" class="logo"
+                 height="170" width="180" alt="logo" />
+          </a>
+          <h1>Latin dictionaries</h1>
+          <p class="sidebar-desc">for computer and mobile, to have full pleasure of reading and writing Latin</p>
+        </div>
+        <h1>Navigation</h1>
+        <div>
+	      <ul class="sidebar-toc">
+	      
+	        <li><a href="/">Home</a>
+	        
+	        </li>
+	      
+	        <li><a href="/dictionaries.html">Dictionaries</a>
+	        
+	        <ul class="sidebar-toc">
+	          
+	          <li><a href="/online.html">Online</a></li>
+	          
+	        </ul>
+	        
+	        </li>
+	      
+	        <li><a href="/docs/docs.html">Docs</a>
+	        
+	        <ul class="sidebar-toc">
+	          
+	          <li><a href="/docs/howto.html">Quick Start</a></li>
+	          
+	          <li><a href="/docs/hunspell.html">Hunspell</a></li>
+	          
+	        </ul>
+	        
+	        </li>
+	      
+	        <li><a href="/about.html">About</a>
+	        
+	        </li>
+	      
+	      </ul>
+        </div>
+      </div>
+      <div id="content">
+        <h1 id="hunspell-words-normalization">Hunspell: words normalization</h1>
+
+<p>Latin is an inflected language, so a word could have several forms but dictionaries usually contain only its normal form, such as nominative singular for nouns. For this reason, one cannot simply copy an unknown word into GoldenDict, but has to manually type its correct form.</p>
+
+<p>Hunspell is a spell checking system, also able to produce lemmas, i.e. normal forms of the words, so, for example, word “puellam” will be transformed to “puella”, which significantly simplifies work with dictionaries. Other examples of normalization are ligatures, “pæne” &gt; “paene”, and diacritics, “curâ” or “malè”.</p>
+
+<p><strong>Note:</strong> Hunspell helps finding lemmas of Latin language, but it does not work so with Ancient Greek.</p>
+
+<p>Hunspell by itself needs a dictionary. To the date we could choose between two variants:</p>
+
+<ol>
+  <li>Dictionary by <a href="https://extensions.libreoffice.org/extensions/latin-spelling-and-hyphenation-dictionaries">Karl Zeiler and Jean-Pierre Sutto</a></li>
+  <li>Dictionary by <a href="http://www.obta.uw.edu.pl/~draco/">Konrad Kokoszkiewicz</a> (at the very bottom of the page)</li>
+</ol>
+
+<p>The first dictionary is the most universal, the second contains strictly classical lexicon (to the end of 2nd century AD). Each dictionary should work fine with GoldenDict. Additionally, they could be used for spellchecking in LibreOffice, Chrome, Firefox, &amp;c.</p>
+
+<h1 id="setting-up">Setting up</h1>
+
+<h2 id="goldendict-desktop">GoldenDict (desktop)</h2>
+
+<p><strong>Note:</strong> Users of Linux could install Hunspell dictionaries as ordinary applications (see Software Center or something alike). For example, Arch Linux <a href="https://aur.archlinux.org/packages/hunspell-la">provides a package</a> based on the dictionary of Karl Zeiler and Jean-Pierre Sutto. After installing, follow the step 3 in the list below, or start from beginning if your distributive has no Hunspell dictionary for Latin language.</p>
+
+<p>Procedure is simple:</p>
+
+<ol>
+  <li><a href="hunspell-la.zip">Download the dictionary</a> and extract files (Karl Zeiler’s variant).</li>
+  <li>Start GoldenDict, open menu Edit &gt; Dictionaries, tab Sources &gt; Morphology.</li>
+  <li>Change “Path to a directory with Hunspell/Myspell dictionaries” to the folder where you saved the files. (<strong>Linux:</strong> if you installed dictionary as package, then the correct path will be “/usr/share/hunspell”.)</li>
+  <li>Enable (check on) “Latin Morphology” in the list.</li>
+  <li>Press OK. Try typing an incorrect word, you should see the list of spelling suggestions (see image).</li>
+  <li>If not, open settings (Edit &gt; Dictionaries), and on the tab Groups add “Latin Morphology” to the group.</li>
+</ol>
+
+<div class="img-viewer">
+  <input type="checkbox" id="img-viewer-1" />
+  <label for="img-viewer-1">
+    <div class="img-viewer-full">
+      <div>
+        <img src="img/hunspell-1.png" alt="image" />
+      </div>
+    </div>
+    <!-- <img src="img/hunspell-1.png" style="max-height: 200px; max-width: 300px;" alt="preview" alt="image" /> -->
+    <img src="img/hunspell-1.png" style="max-height: 200px;" alt="image" />
+  </label>
+</div>
+
+<h2 id="goldendict-mobile">GoldenDict Mobile</h2>
+
+<p>Copy files <code class="language-plaintext highlighter-rouge">la_LA.aff</code> and <code class="language-plaintext highlighter-rouge">la_LA.dic</code> to the phone’s SD card, into the GoldenDict folder. Run application, it will recognize them as a new dictionary.</p>
+
+<h2 id="bluedict-mobile">BlueDict (mobile)</h2>
+
+<p>Mobile application <a href="http://www.ssdlsoft.com/bluedict/">BlueDict</a> for Android could use special <a href="https://www.pdawiki.com/forum/forum.php?mod=viewthread&amp;tid=19511">morphology dictionary</a>. Registration is required for download from the website (all in Chinese). Probably, this file could be used in other applications reading MDict format, but it was not tested.</p>
+
+<h2 id="mdict-mobile">MDict (mobile)</h2>
+
+<p><a href="https://www.mdict.cn/">MDict</a> supports unmodified Hunspell dictionaries. Files <code class="language-plaintext highlighter-rouge">la_LA.aff</code> and <code class="language-plaintext highlighter-rouge">la_LA.dic</code> should be copied into the “/mdict/data/” folder.</p>
+
+
+        
+      </div>
+      <div id="footer">
+        <p>© Nikita Murzintcev - Powered by Jekyll.</p>
+      </div>
+    </div>
+  </body>
+</html>
+

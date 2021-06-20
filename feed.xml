@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://latin-dict.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://latin-dict.github.io/" rel="alternate" type="text/html" /><updated>2021-06-20T15:31:58+00:00</updated><id>https://latin-dict.github.io/feed.xml</id><title type="html">Latin dictionaries</title><author><name>Nikita Murzintcev</name></author><entry><title type="html">Otwarty słownik łacińsko-polski, Kazojć (2010)</title><link href="https://latin-dict.github.io/2021/06/20/Kazojc2010.html" rel="alternate" type="text/html" title="Otwarty słownik łacińsko-polski, Kazojć (2010)" /><published>2021-06-20T00:00:00+00:00</published><updated>2021-06-20T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/06/20/Kazojc2010</id><content type="html" xml:base="https://latin-dict.github.io/2021/06/20/Kazojc2010.html">&lt;h3 id=&quot;kazojc2010-v10&quot;&gt;&lt;a href=&quot;/dictionaries/Kazojc2010.html&quot;&gt;Kazojc2010&lt;/a&gt; v1.0:&lt;/h3&gt;
+
+&lt;p&gt;First release of Latin-Polish dictionary.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/Kazojc2010/releases&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">Kazojc2010 v1.0:</summary></entry><entry><title type="html">A Copious and Critical English-Latin Dictionary, Smith &amp;amp; Hall (1871)</title><link href="https://latin-dict.github.io/2021/06/17/SmithHall1871.html" rel="alternate" type="text/html" title="A Copious and Critical English-Latin Dictionary, Smith &amp;amp; Hall (1871)" /><published>2021-06-17T00:00:00+00:00</published><updated>2021-06-17T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/06/17/SmithHall1871</id><content type="html" xml:base="https://latin-dict.github.io/2021/06/17/SmithHall1871.html">&lt;h3 id=&quot;smithhall1871-v02&quot;&gt;&lt;a href=&quot;/dictionaries/SmithHall1871.html&quot;&gt;SmithHall1871&lt;/a&gt; v0.2:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;add:&lt;/strong&gt; more formats (Slob, StarDict, MDict)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;fix:&lt;/strong&gt; keywords&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;fix:&lt;/strong&gt; internal links&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;fix:&lt;/strong&gt; hierarchical structure of the articles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;An updated version of my old dictionary. The text was synchronized with current state of the transcript.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/SmithHall1871/releases&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">SmithHall1871 v0.2:</summary></entry><entry><title type="html">Novum lexicon manuale Graeco-Latinum et Latino-Graecum, Hederich (1825)</title><link href="https://latin-dict.github.io/2021/05/31/Hederich1825.html" rel="alternate" type="text/html" title="Novum lexicon manuale Graeco-Latinum et Latino-Graecum, Hederich (1825)" /><published>2021-05-31T00:00:00+00:00</published><updated>2021-05-31T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/05/31/Hederich1825</id><content type="html" xml:base="https://latin-dict.github.io/2021/05/31/Hederich1825.html">&lt;h3 id=&quot;hederich1825-v12&quot;&gt;&lt;a href=&quot;/dictionaries/Hederich1825.html&quot;&gt;Hederich1825&lt;/a&gt; v1.2:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;fix:&lt;/strong&gt; index for the letter “ψ”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;fix:&lt;/strong&gt; slightly optimize offline version&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/Hederich1825/releases&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">Hederich1825 v1.2:</summary></entry><entry><title type="html">Amalthea Onomastica, Laurenzi (1708)</title><link href="https://latin-dict.github.io/2021/05/28/Laurenzi1708.html" rel="alternate" type="text/html" title="Amalthea Onomastica, Laurenzi (1708)" /><published>2021-05-28T00:00:00+00:00</published><updated>2021-05-28T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/05/28/Laurenzi1708</id><content type="html" xml:base="https://latin-dict.github.io/2021/05/28/Laurenzi1708.html">&lt;h3 id=&quot;laurenzi1708-v10&quot;&gt;&lt;a href=&quot;/dictionaries/Laurenzi1708.html&quot;&gt;Laurenzi1708&lt;/a&gt; v1.0:&lt;/h3&gt;
+
+&lt;p&gt;First release of &lt;strong&gt;Latin-Italian&lt;/strong&gt; dictionary.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/Laurenzi1708/releases&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">Laurenzi1708 v1.0:</summary></entry><entry><title type="html">Thesaurus Graecae linguae, Estienne (1831-1865)</title><link href="https://latin-dict.github.io/2021/05/17/Estienne1831.html" rel="alternate" type="text/html" title="Thesaurus Graecae linguae, Estienne (1831-1865)" /><published>2021-05-17T00:00:00+00:00</published><updated>2021-05-17T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/05/17/Estienne1831</id><content type="html" xml:base="https://latin-dict.github.io/2021/05/17/Estienne1831.html">&lt;h3 id=&quot;estienne1831-v01&quot;&gt;&lt;a href=&quot;/dictionaries/Estienne1831.html&quot;&gt;Estienne1831&lt;/a&gt; v0.1:&lt;/h3&gt;
+
+&lt;p&gt;Test version.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/Estienne1831/releases&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">Estienne1831 v0.1:</summary></entry><entry><title type="html">Calepinus septem linguarum, Gallicciolli (1778)</title><link href="https://latin-dict.github.io/2021/05/16/Gallicciolli1778.html" rel="alternate" type="text/html" title="Calepinus septem linguarum, Gallicciolli (1778)" /><published>2021-05-16T00:00:00+00:00</published><updated>2021-05-16T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/05/16/Gallicciolli1778</id><content type="html" xml:base="https://latin-dict.github.io/2021/05/16/Gallicciolli1778.html">&lt;h3 id=&quot;gallicciolli1778-v13&quot;&gt;&lt;a href=&quot;/dictionaries/Gallicciolli1778.html&quot;&gt;Gallicciolli1778&lt;/a&gt; v1.3:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;fix:&lt;/strong&gt; lookup for the letter “v”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;fix:&lt;/strong&gt; index for the page 863&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/Gallicciolli1778/releases&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">Gallicciolli1778 v1.3:</summary></entry><entry><title type="html">De differentiis verborum, Popma (1865)</title><link href="https://latin-dict.github.io/2021/05/14/Popma1865.html" rel="alternate" type="text/html" title="De differentiis verborum, Popma (1865)" /><published>2021-05-14T00:00:00+00:00</published><updated>2021-05-14T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/05/14/Popma1865</id><content type="html" xml:base="https://latin-dict.github.io/2021/05/14/Popma1865.html">&lt;h3 id=&quot;popma1865-v10&quot;&gt;&lt;a href=&quot;/dictionaries/Popma1865.html&quot;&gt;Popma1865&lt;/a&gt; v1.0:&lt;/h3&gt;
+
+&lt;p&gt;Full-text transcript.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/Popma1865/releases&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">Popma1865 v1.0:</summary></entry><entry><title type="html">Griechisches Etymologisches Wörterbuch, Frisk (1960-1972)</title><link href="https://latin-dict.github.io/2021/05/10/Frisk1960.html" rel="alternate" type="text/html" title="Griechisches Etymologisches Wörterbuch, Frisk (1960-1972)" /><published>2021-05-10T00:00:00+00:00</published><updated>2021-05-10T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/05/10/Frisk1960</id><content type="html" xml:base="https://latin-dict.github.io/2021/05/10/Frisk1960.html">&lt;h3 id=&quot;frisk1960-v11&quot;&gt;&lt;a href=&quot;/dictionaries/Frisk1960.html&quot;&gt;Frisk1960&lt;/a&gt; v1.1:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;change:&lt;/strong&gt; styles of Greek words and header&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;add:&lt;/strong&gt; file in ABBYY Lingvo (DSL)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/Frisk1960/releases&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; A similar &lt;a href=&quot;http://ernout.narod.ru/a_ernout.htm&quot;&gt;Latin etymological dicitonary&lt;/a&gt; (Ernout, 1939) can be adapted for desktop GoldenDict. &lt;a href=&quot;/about.html&quot;&gt;Contact me&lt;/a&gt; if you are interested in it.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">Frisk1960 v1.1:</summary></entry><entry><title type="html">HillJohn1804 v1.2</title><link href="https://latin-dict.github.io/2021/05/04/HillJohn1804.html" rel="alternate" type="text/html" title="HillJohn1804 v1.2" /><published>2021-05-04T00:00:00+00:00</published><updated>2021-05-04T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/05/04/HillJohn1804</id><content type="html" xml:base="https://latin-dict.github.io/2021/05/04/HillJohn1804.html">&lt;h3 id=&quot;the-synonymes-of-the-latin-language-john-hill-1804-v12&quot;&gt;&lt;a href=&quot;/dictionaries/HillJohn1804.html&quot;&gt;The synonymes of the Latin language, John Hill (1804)&lt;/a&gt; v1.2&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;change:&lt;/strong&gt; remove embedded image-viewer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now it should be more friendly to the Windows users.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/HillJohn1804/releases/tag/v1.2&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">The synonymes of the Latin language, John Hill (1804) v1.2</summary></entry><entry><title type="html">Gesner1749 v1.2</title><link href="https://latin-dict.github.io/2021/05/02/Gesner1749.html" rel="alternate" type="text/html" title="Gesner1749 v1.2" /><published>2021-05-02T00:00:00+00:00</published><updated>2021-05-02T00:00:00+00:00</updated><id>https://latin-dict.github.io/2021/05/02/Gesner1749</id><content type="html" xml:base="https://latin-dict.github.io/2021/05/02/Gesner1749.html">&lt;h3 id=&quot;novus-linguae-et-eruditionis-romanae-thesaurus-gesner-1749-v12&quot;&gt;&lt;a href=&quot;/dictionaries/Gesner1749.html&quot;&gt;Novus linguae et eruditionis Romanae thesaurus, Gesner (1749)&lt;/a&gt; v1.2&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;fix:&lt;/strong&gt; license attributes&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;change:&lt;/strong&gt; open image on single click&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;add:&lt;/strong&gt; Greek keys&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;add:&lt;/strong&gt; tonos (φιλέω) and oxia (φιλέω) variants&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;add:&lt;/strong&gt; missing image, see “soror”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/latin-dict/Gesner1749/releases/tag/v1.2&quot;&gt;Download&lt;/a&gt; from GitHub.&lt;/p&gt;</content><author><name>Nikita Murzintcev</name></author><summary type="html">Novus linguae et eruditionis Romanae thesaurus, Gesner (1749) v1.2</summary></entry></feed>
