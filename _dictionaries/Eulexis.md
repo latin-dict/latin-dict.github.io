@@ -1,9 +1,13 @@
 ---
-title: Eulexis
+title: Ancient Greek lemmatiser
+author: Eulexis
+year: (online)
 description: morphological analyzer, dictionary
 website: https://outils.biblissima.fr/en/eulexis/index.php
 nickname: Eulexis-html
-categories: [greek]
+tags: [Ancient Greek]
+categories: [archive]
+comment: 
 ---
 # {{ page.title }}
 
@@ -42,6 +46,6 @@ This work is distributed as [Public Domain](http://creativecommons.org/publicdom
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}
 [2]: https://github.com/latin-dict/{{ page.nickname }}/releases
-[3]: {{ site.baseurl }}{% link _online/Alpheios.md %}
+[3]: {{ site.baseurl }}{% link _dictionaries/Alpheios.md %}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries
 [5]: {{ site.baseurl }}{% link _dictionaries/morphology-grc.md %}

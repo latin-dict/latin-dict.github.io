@@ -10,5 +10,5 @@ Adaptation of online **Latin-Latin** dictionary for GoldenDict.
 **Download** from [GitHub][2].
 
 
-[1]: {{ site.baseurl }}{% link _online/Forcellini.md %}
+[1]: {{ site.baseurl }}{% link _dictionaries/Forcellini.md %}
 [2]: https://github.com/latin-dict/Forcellini/releases/tag/v1.0

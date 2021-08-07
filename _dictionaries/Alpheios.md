@@ -1,9 +1,13 @@
 ---
-title: Alpheios
+title: Ancient Greek morphology
+author: Alpheios
+year: (online)
 description: morphological analyzer
 website: https://alpheios.net/
 nickname: Alpheios-html
-categories: [greek]
+tags: [Ancient Greek]
+categories: [archive]
+comment: 
 ---
 # {{ page.title }}
 
@@ -37,6 +41,6 @@ This work is distributed as [Public Domain](http://creativecommons.org/publicdom
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}
 [2]: https://github.com/latin-dict/{{ page.nickname }}/releases
-[3]: {{ site.baseurl }}{% link _online/Eulexis.md %}
+[3]: {{ site.baseurl }}{% link _dictionaries/Eulexis.md %}
 [4]: {{ site.baseurl }}{% link docs/howto.md %}#html-dictionaries
 [5]: {{ site.baseurl }}{% link _dictionaries/morphology-grc.md %}

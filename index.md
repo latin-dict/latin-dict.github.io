@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Home
+redirect_from:
+  - /dictionaries.html
+  - /online.html
 ---
 
 # Salve!
 
-This website holds collection of Latin dictionaries. List of the available wordbooks is in the particular [section]({{ site.baseurl }}{% link dictionaries.md %}). 
+This website holds collection of Latin dictionaries. List of the available wordbooks is in the particular sections.
 
 Dictionaries are encoded for desktop computers and mobile devices. Formats and supported dictionary shells are explained in the [documentation]({{ site.baseurl }}{% link docs/docs.md %}).
 

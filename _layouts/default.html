@@ -28,7 +28,11 @@
         <div>
 	      <ul class="sidebar-toc">
 	      {% for item in site.data.toc %}
-	        <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+          {% if item.url %}
+          <li><a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
+          {% else %}
+          <li>{{ item.title }}
+          {% endif %}
 	        {% if item.submenu %}
 	        <ul class="sidebar-toc">
 	          {% for subitem in item.submenu %}
@@ -44,9 +48,9 @@
       <div id="content">
         {{ content }}
         {% if page.nickname %}
-        <div id="stat" style="float: right;">
+        <div id="stat">
           <a href="https://tooomm.github.io/github-release-stats/?username=latin-dict&repository={{ page.nickname }}">
-            <img src="{{ site.baseurl }}/assets/img/bar-chart-7-16.png" />
+            <img src="{{ site.baseurl }}/assets/img/bar-chart-7-16.png" style="opacity: 0.2;"/>
           </a>
         </div>
         {% endif %}

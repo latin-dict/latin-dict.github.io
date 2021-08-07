@@ -1,9 +1,14 @@
 ---
 title: Whitaker's Words
-description: morphological analyzer; Latin-English dictionary
+author: Whitaker
+year: 1993-2007
 website: http://archives.nd.edu/words.html
 nickname: Whitaker
-categories: [latin]
+tags: [Latin, English]
+categories: [general]
+comment: on-line morphological analyzer
+redirect_from:
+  - /online/Whitaker.html
 ---
 # {{ page.title }}
 

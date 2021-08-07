@@ -8,8 +8,6 @@ google_analytics: UA-140847555-1
 collections:
   dictionaries:
     output: true
-  online:
-    output: true
   posts:
     output: true
 
@@ -33,3 +31,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from

@@ -1,10 +1,22 @@
 - title: Home
   url: /
 - title: Dictionaries
-  url: /dictionaries.html
+  url: null
   submenu:
-    - title: Online
-      url: /online.html
+    - title: monolingual
+      url: /list_monolingual.html
+    - title: general
+      url: /list_general.html
+    - title: synonyms
+      url: /list_synonyms.html
+    - title: scientific or special
+      url: /list_scientific.html
+    - title: ancient greek
+      url: /list_greek.html
+    - title: medieval
+      url: /list_medieval.html
+    - title: archive
+      url: /list_archive.html
 - title: Docs
   url: /docs/docs.html
   submenu:

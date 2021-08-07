@@ -136,6 +136,7 @@ ul.pagination .active a {
 #content {
   grid-column-start: 2;
   grid-column-end: 3;
+  position: relative;
 }
 
 #footer {
@@ -156,6 +157,7 @@ ul.pagination .active a {
     grid-column-end: 1;
     grid-row-start: 1;
     grid-row-end: 2;
+    position: relative;
   }
   #sidebar {
     grid-column-start: 1;
@@ -200,3 +202,8 @@ code {
   font-size: .8em;
 }
 
+div#stat {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
