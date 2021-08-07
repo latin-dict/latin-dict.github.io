@@ -1,13 +1,19 @@
 ---
 title: Forcellinus Electronicus Novus
+author: Forcellini
+year: 1771
 description: Latin-Latin dictionary
 website: http://www.lexica.linguax.com/forc2.php
 nickname: Forcellini
+tags: [Latin]
 categories: [latin]
+comment: on-line
+redirect_from:
+  - /online/Forcellini.html
 ---
 # {{ page.title }}
 
-[{{ page.title }}]({{ page.website }}) \[1\] is a monolingual Latin dictionary, but most of the articles additionally have short translations into Italian, French, Spanish, German and English languages.
+[{{ page.title }}]({{ page.website }}) (see Sources) is a monolingual Latin dictionary, but most of the articles additionally have short translations into Italian, French, Spanish, German and English languages.
 
 
 ## Download
