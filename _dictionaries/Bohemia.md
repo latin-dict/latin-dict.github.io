@@ -5,6 +5,7 @@ year: 2019
 tags: [Latin, Czech]
 nickname: Bohemia
 categories: [medieval]
+comment: 1000-1500 (on-line)
 ---
 # {{ page.title }} ({{ page.year }})
 

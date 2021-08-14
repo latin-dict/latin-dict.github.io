@@ -4,7 +4,7 @@ author: López Pozo
 year: 1997
 tags: [Spanish, Ancient Greek, Latin]
 nickname: LopezPozo1997
-categories: [general]
+categories: [general, greek]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
