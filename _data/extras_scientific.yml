@@ -16,3 +16,21 @@
   website: http://dagr.univ-tlse2.fr/
   tags: [Latin, French]
   comment: encyclopaedia
+- title: Lexicon musicum Latinum medii aevi
+  author: Bayerischen Akademie
+  year: 1961-now
+  website: https://woerterbuchnetz.de
+  tags: [Latin, German, English]
+  comment: 
+- title: Dictionnaire étymologique de la langue latine
+  author: Ernout & Meillet
+  year: 1939
+  website: http://ernout.narod.ru/
+  tags: [Latin, French]
+  comment:
+- title: Sigla Latina in libris impressis occurrentia
+  author: Winiarczyk
+  year:   1995
+  website: http://mateo.uni-mannheim.de/camenaref/siglalatina.html
+  tags: [Latin]
+  comment:
