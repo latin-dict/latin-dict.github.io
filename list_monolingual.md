@@ -8,7 +8,7 @@ filter: latin
 
 Fast introduction into the Latin-Latin dictionaries:
 
-- concise: [Laurenzi]({% link _dictionaries/Laurenzi1708.md %})
+- concise: [Laurenzi]({% link _dictionaries/Laurenzi1708.md %}), [Blatt]({% link _dictionaries/Blatt1997.md %})
 - middle-sized: [Reyher]({% link _dictionaries/Reyher1712.md %}), [Gallicciolli]({% link _dictionaries/Gallicciolli1778.md %})
 - extensive: [Forcellini]({% link _dictionaries/Forcellini.md %}), [Gesner]({% link _dictionaries/Gesner1749.md %}), [TLL]({% link _dictionaries/ThLL.md %})
 

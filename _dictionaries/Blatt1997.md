@@ -5,13 +5,12 @@ year: 1997
 nickname: Blatt1997
 tags: [Latin]
 categories: [medieval]
-disable: true
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
 Full title: "Vademecum in opus Saxonis et alia opera Danica compendium ex indice verborum".
 
-The first editions of this Medieval Latin vocabulary was build in 1931 by Franz Blatt (1903-1979). Reimer Hemmingsen (1922-1998) made new edition in 1997, in which he corrected and expanded articles (RH notes), and introduced new words (® sign).
+The first editions of this Medieval Latin vocabulary was published in 1931 by Franz Blatt (1903-1979). Reimer Hemmingsen (1922-1998) made new edition in 1997, in which he corrected and expanded articles (RH notes), and introduced new words (® sign).
 
 Being written completely in Latin (with rare Danish and German glosses), this dictionary can be recommended to every Latin learner (pay attention to Usage notes). For example:
 
