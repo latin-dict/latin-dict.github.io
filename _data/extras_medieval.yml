@@ -3,26 +3,52 @@
   year: 2014
   website: https://elexicon.scriptores.pl
   tags: [Latin, Polish]
-  categories: [medieval]
   comment: 
 - title: Medieval Latin Word Vocabulary
   author: Lynn
   year: 1997
   website: https://kriston.net/tools/latin/medieval.shtml
   tags: [Latin, English]
-  categories: [medieval]
   comment: 
 - title: Neulateinische Wortliste
   author: Ramminger
   year: (present)
   website: http://www.neulatein.de
   tags: [Latin, German]
-  categories: [medieval]
   comment: 1300-1700
 - title: Novum Glossarium Mediae Latinitatis
   author: CNRS
   year: (1957-now)
   website: https://glossaria.eu/ngml/
   tags: [Latin, French]
-  categories: [medieval]
   comment: 800-1200
+- title: Liber exquisiti xenii. Lexikon frühmittelalterlicher Rechtswörter
+  author: Köbler
+  year: 1999
+  website: http://dadako.narod.ru/paperpoe.htm
+  tags: [Latin, German]
+  comment: 500-1500
+- title: Dictionary of Medieval Latin from British Sources (DMLBS)
+  author: British Academy
+  year: 2018
+  website: https://logeion.uchicago.edu/
+  tags: [Latin, English]
+  comment: 540-1600 (among other dictionaries)
+- title: Glossarium mediae et infimae latinitatis
+  author: Du Cange
+  year: 1883-1887
+  website: http://ducange.enc.sorbonne.fr/
+  tags: [Latin]
+  comment: 
+- title: Mediae Latinitatis Lexicon Minus
+  author: Niermeyer
+  year: (?)
+  website: http://linguaeterna.com/medlat/
+  tags: [Latin, French, English]
+  comment: see [here](http://dadako.narod.ru/paperpoe.htm#latin) for files in DSL format
+- title: Латинский словарь средневековых философских терминов (Latin Dictionary of Medieval Philosophical Terms)
+  author: Неретина
+  year: 1998
+  website: http://dadako.narod.ru/paperpoe.htm
+  tags: [Latin, English, Russian]
+  comment:

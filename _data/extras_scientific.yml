@@ -40,3 +40,27 @@
   website: http://lexica.linguax.com/valpy.php
   tags: [Latin, English]
   comment:
+- title: Dictionnaire des auteurs grecs et latins
+  author: Smith
+  year: 1880 (?)
+  website: http://remacle.org/bloodwolf/erudits/athenee/auteur.htm
+  tags: [Latin, French]
+  comment: encyclopaedia
+- title: An etymology of Latin and Greek
+  author: Halsey
+  year: 1889
+  website: http://classicalepwing.osdn.jp/download.html
+  tags: [Latin, English]
+  comment:
+- title: Harper's Dictionary of Classical Literature and Antiquities
+  author: Peck
+  year: 1898
+  website: http://classicalepwing.osdn.jp/download.html
+  tags: [Latin, English]
+  comment: encyclopaedia
+- title: A Topographical Dictionary of Ancient Rome
+  author: Platner & Ashby
+  year: 1929
+  website: http://classicalepwing.osdn.jp/download.html
+  tags: [Latin, English]
+  comment: encyclopaedia

@@ -1,6 +1,6 @@
 - title: Wörterbuch Latein / Deutsch
   author: Eichelberg
-  year: 2002-2003
+  year: 2003
   website: http://web.archive.org/web/20070626161014/http://wernersindex.de/latedeua.htm
   tags: [Latin, German]
   comment:
@@ -45,4 +45,22 @@
   year: (?)
   website: https://www.navigium.de//latein-woerterbuch.html
   tags: [Latin, German]
+  comment:
+- title: Dictionnaire latin-français
+  author: Gaffiot
+  year: 1934 (2016)
+  website: https://cerclelatin.org/wiki/Home#f-gaffiot-dictionnaire-latin-fran%C3%A7ais-%C3%A9dition-komarov-2016
+  tags: [Latin, French]
+  comment:
+- title: Dictionnaire français-latin
+  author: Édon
+  year: 2019
+  website: https://cerclelatin.org/wiki/Home#ressources-didactiques_dictionnaires_g-%C3%A9don-dictionnaire-fran%C3%A7ais-latin-%C3%A9dition-cl%C3%A9mentine-2019
+  tags: [French, Latin]
+  comment:
+- title: Thesaurus Linguae Romanae et Britannicae
+  author: Cooper
+  year: 1584
+  website: http://classicalepwing.osdn.jp/download.html
+  tags: [Latin, English]
   comment:
