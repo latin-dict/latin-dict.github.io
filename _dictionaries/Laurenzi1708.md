@@ -34,7 +34,7 @@ This dictionary contains common lexis, but is intended for advanced Latin learne
 
 ## Sources
 
-1. Laurenzi, Giuseppe. _Amalthea Onomastica._ Venice, 1708. URL: <https://www.digitale-sammlungen.de/en/view/bsb10523625>.
+1. Laurenzi, Giuseppe. _Amalthea Onomastica._ Venice, 1708. URL: [https://www.digitale-sammlungen.de/en/view/bsb10523625](https://www.digitale-sammlungen.de/en/view/bsb10523625?page=6,7).
 
 
 ## Usage guidelines
@@ -56,8 +56,8 @@ Abbreviations and acronyms are listed at the end of the corresponding letter sec
 
 ## License
 
-[![CC BY-NC-SA](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc/4.0/)\\
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+<img src="https://rightsstatements.org/files/buttons/NoC-NC.dark-white-interior.svg" style="height: 31px;">\\
+Code of the dictionary is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/); images are licensed for [non-commercial use](https://rightsstatements.org/page/NoC-NC/1.0/).
 
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}

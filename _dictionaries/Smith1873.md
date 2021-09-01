@@ -11,12 +11,14 @@ categories: [scientific]
 
 In the preface, the book editor William Smith writes: "The biographical articles in this work include the names of all persons of any importance which occur in the Greek and Roman writers, from the earliest times down to the extinction of the Western Empire in the year 476 of our era, and to the extinction of the Eastern Empire by the capture of Constantinople by the Turks in the year 1453."
 
-This dictionary contains **Latin** and **Ancient Greek** keys, articles are written in **English**.
+This dictionary contains **Latin** and **Ancient Greek** keys, articles are written in **English**. All images (portraits, family trees) are missing.
 
 
 ## Download
 
 [Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other applications.
+
+[Another version](http://classicalepwing.osdn.jp/download.html) (with images) in EPWING format was created by 大久保克彦.
 
 
 ## Exemplum

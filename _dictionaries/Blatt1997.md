@@ -5,6 +5,7 @@ year: 1997
 nickname: Blatt1997
 tags: [Latin]
 categories: [medieval]
+comment: 12th century
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
@@ -24,6 +25,8 @@ Dictionary is [available on-line](http://www.rostra.dk/latin/).
 ## Download
 
 [Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
+
+Another version, in DSL (ABBYY Lingvo) format, can be found in the collection [БУМАКОПАНiЯ](http://dadako.narod.ru/paperpoe.htm).
 
 
 ## Exemplum

@@ -20,6 +20,8 @@ Edition of 1875 is available online on [Bill Thayer's website](http://penelope.u
 
 [Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other applications.
 
+[Another version](http://classicalepwing.osdn.jp/download.html) in EPWING format was created by 大久保克彦.
+
 
 ## Exemplum
 

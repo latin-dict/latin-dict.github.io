@@ -16,6 +16,8 @@ This dictionary contains **Latin** and **Ancient Greek** keys, articles are writ
 
 [Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other applications.
 
+[Another version](http://classicalepwing.osdn.jp/download.html) (with corrections) in EPWING format was created by 大久保克彦.
+
 
 ## Exemplum
 
