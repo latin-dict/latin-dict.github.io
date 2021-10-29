@@ -15,9 +15,7 @@ Classic **Latin**–**English** dictionary, younger brother of "[A Latin Diction
 
 [Download][2] files compiled for dictionary shells. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
-Similar dictionaries:
-
-- [by Iohannes Brunensis](http://www.litteraelatinae.eu/?p=381) (StarDict and Epub formats)
+Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](http://dadako.narod.ru/paperpoe.htm). Files in StarDict and Epub formats were compiled by [Iohannes Brunensis](http://www.litteraelatinae.eu/?p=381).
 
 
 ## Exemplum

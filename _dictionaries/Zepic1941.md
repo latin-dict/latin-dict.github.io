@@ -15,6 +15,8 @@ Latin-Croatian dictionary for use at schools. The book has the subtitle “I. di
 
 Current version is [v1.1 (February 20, 2020)][1]. Format Slob is recommended for GoldenDict, read [documentation][2] about other dictionary shells.
 
+Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](http://dadako.narod.ru/paperpoe.htm).
+
 
 ## Exemplum
 

@@ -26,7 +26,7 @@ Dictionary is [available on-line](http://www.rostra.dk/latin/).
 
 [Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
-Another version, in DSL (ABBYY Lingvo) format, can be found in the collection [БУМАКОПАНiЯ](http://dadako.narod.ru/paperpoe.htm).
+Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](http://dadako.narod.ru/paperpoe.htm).
 
 
 ## Exemplum

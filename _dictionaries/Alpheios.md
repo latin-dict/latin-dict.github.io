@@ -22,6 +22,8 @@ This dictionary was superseded with off-line [Morphologia Graeca][5] and will no
 
 [Download][2] the most recent version and add file `index.html` to GoldenDict following the [guide for HTML dictionaries][4].
 
+Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](http://dadako.narod.ru/paperpoe.htm).
+
 
 ## Exemplum
 

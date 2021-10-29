@@ -10,7 +10,7 @@ categories: [general]
 
 Latin: Vocabularium Russico-Latinum Magnum.
 
-Russian-Latin dictionary containing Contemporary Latin lexis was compiled by Poliachev M. P. (Поляшев Михаил Петрович, 1951-2005).
+Russian-Latin dictionary containing contemporary Latin lexis was compiled by Poliachev M. P. (Поляшев Михаил Петрович, 1951-2005).
 
 
 ## Download
@@ -21,13 +21,6 @@ Source files are in the [github repository][3].
 
 
 ## Exemplum
-
-<!--
-<div class="spotlight-group" data-animation="" data-control="" data-autohide="false">
-  <img src="img/Poliachev2002-1.png" class="spotlight" height="200">
-  <img src="img/Poliachev2002-2.png" class="spotlight" height="200">
-</div>
--->
 
 {% include img-viewer.html img="img/Poliachev2002-1.png" id="1" %}
 {% include img-viewer.html img="img/Poliachev2002-2.png" id="2" %}
@@ -72,4 +65,3 @@ This work is distributed as <a rel="license" href="http://creativecommons.org/pu
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [4]: http://linguaeterna.com/ru/down.php
-

@@ -15,6 +15,8 @@ categories: [greek]
 
 [Download][2] files compiled for dictionary shells. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
+Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](http://dadako.narod.ru/paperpoe.htm).
+
 
 ## Exemplum
 

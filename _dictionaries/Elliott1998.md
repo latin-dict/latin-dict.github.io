@@ -17,6 +17,8 @@ It **is not** a list of abbreviations used in texts, such as "e.g." or "v.g.", b
 
 [Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other applications.
 
+Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](http://dadako.narod.ru/paperpoe.htm).
+
 
 ## Exemplum
 
