@@ -4,7 +4,7 @@ author: Popma
 year: 1865
 tags: [Latin]
 nickname: Popma1865
-categories: [synonyms, latin]
+categories: [latin]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
@@ -20,6 +20,8 @@ Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book
 [Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
 Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](http://dadako.narod.ru/paperpoe.htm).
+
+[PDF book](https://danelh.github.io/De_Differentiis_Verborum_Popma.pdf) by Daniel Elhacham.
 
 
 ## Exemplum

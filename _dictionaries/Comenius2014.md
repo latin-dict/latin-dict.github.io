@@ -25,7 +25,7 @@ Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](htt
 
 # Sources
 
-Our dictionary is based on the book of Felipe Vogel \[1\]. Title page states that it is a transcript of the book published in 1665 \[2\], however in place of French text the third collum contains Greek vocabulary. Source of this vocabulary is unknown, probably it was added by Felipe Vogel from one of latter editions of the book, such as \[3\].
+Our dictionary is based on the book of Felipe Vogel \[1\]. Title page states that it is a transcript of the book published in 1665 \[2\], however in place of French text the third collum contains Greek vocabulary. Source of this vocabulary is unknown, probably it was added by Felipe Vogel from one of later editions of the book, such as \[3\].
 
 1. Comenius, John Amos; Simon, Theodor; Courcelles, Étienne de; Vogel, Felipe; Lionello, Roberto; Gibbons, Randy. _Janua Linguarum Reserata cum Graeca versione._ Online, 2014. URL: <https://archive.org/details/comenius-janua-reserata>.
 1. Comenius, John Amos; Simon, Theodor; Courcelles, Étienne de. _Janua Linguarum Reserata cum Graeca versione._ Amsterdam, 1665. URL: <https://books.google.com/books?id=E81mAAAAcAAJ>. 
