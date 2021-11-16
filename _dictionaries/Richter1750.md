@@ -4,7 +4,7 @@ author: Richter
 year: 1750
 tags: [Latin]
 nickname: Richter1750
-categories: [synonyms, latin]
+categories: []
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
