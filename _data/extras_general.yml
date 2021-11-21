@@ -22,16 +22,10 @@
   website: http://conversationallatin.blogspot.com
   tags: [English, Latin]
   comment:
-- title: Słownik grecko-łacińsko-polski do Nowego Testamentu
-  author: Wietrzykowski
-  year: 2012
-  website: http://wietrzykowski.net/Voc_gr-lat-pol_do.NT.pdf
-  tags: [Ancient Greek, Latin, Polish]
-  comment:
 - title: Słownik polsko-łacińsko-grecki
   author: Wietrzykowski
   year: 1999
-  website: http://voc.wietrzykowski.net/VOC.%20plg.pdf
+  website: http://wietrzykowski.net/slowniki.html
   tags: [Polish, Latin, Ancient Greek]
   comment:
 - title: Tematyczny Słowniczek polsko-łacińsko-(staro)grecki
@@ -64,3 +58,9 @@
   website: http://classicalepwing.osdn.jp/download.html
   tags: [Latin, English]
   comment:
+- title: Nuevo diccionario latino-español etimológico (y español-latín)
+  author: Miguel & Morante
+  year: 1867
+  website: https://latinonline.es/recursos/diccionarios-de-latin-online/
+  tags: [Latin, Spanish]
+  comment: page index
