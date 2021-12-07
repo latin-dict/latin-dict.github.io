@@ -64,3 +64,45 @@
   website: https://latinonline.es/recursos/diccionarios-de-latin-online/
   tags: [Latin, Spanish]
   comment: page index
+- title: English-Latin FreeDict Dictionary
+  author: FreeDict
+  year: 2017
+  website: https://download.freedict.org/dictionaries/eng-lat/
+  tags: [English, Latin]
+  comment: look up [online](http://dict.org)
+- title: Latin-English FreeDict Dictionary
+  author: FreeDict
+  year: 2017
+  website: https://download.freedict.org/dictionaries/lat-eng/
+  tags: [Latin, English]
+  comment: look up [online](http://dict.org)
+- title: Suomi-Latine FreeDict+WikDict dictionary
+  author: FreeDict
+  year: 2020
+  website: https://download.freedict.org/dictionaries/fin-lat/
+  tags: [Finnish, Latin]
+  comment: 
+- title: Français-Latine FreeDict+WikDict dictionary
+  author: FreeDict
+  year: 2020
+  website: https://download.freedict.org/dictionaries/fra-lat/
+  tags: [French, Latin]
+  comment: 
+- title: Lateinisch-Deutsch FreeDict-Wörterbuch
+  author: Humenda
+  year: 2017
+  website: https://download.freedict.org/dictionaries/lat-deu/
+  tags: [Latin, German]
+  comment: look up [online](http://dict.org)
+- title: Nederlands-latine FreeDict+WikDict dictionary
+  author: Bartel
+  year: 2020
+  website: https://download.freedict.org/dictionaries/nld-lat/
+  tags: [Dutch, Latin]
+  comment: 
+- title: Svenska-latine FreeDict+WikDict dictionary
+  author: Bartel
+  year: 2020
+  website: https://download.freedict.org/dictionaries/swe-lat/
+  tags: [Swedish, Latin]
+  comment: 
