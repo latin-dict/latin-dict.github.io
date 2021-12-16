@@ -42,11 +42,7 @@ Along with the original headwords, keys with removed diacritics were added (แผ”ฯ
 
 ## License
 
-<a rel="license" href="https://outils.biblissima.fr/fr/eulexis/aide/licence.html">
-  <img alt="GNU GPLv3"
-       style="filter: grayscale(1); -webkit-filter: grayscale(1);"
-       src="https://www.gnu.org/graphics/gplv3-with-text-84x42.png"/>
-</a> \
+[![GPLv3](/assets/img/license-gplv3.png)](https://outils.biblissima.fr/fr/eulexis/aide/licence.html)\
 This work is licensed under a [GNU GPLv3 License](https://outils.biblissima.fr/fr/eulexis/aide/licence.html).
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}

@@ -40,7 +40,7 @@ Some keywords are not marked in the text, e.g. "caritas" in the article about "a
 
 ## License
 
-[![CC BY-SA](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/)\\
+[![CC BY-SA](/assets/img/license-by-sa.png)](https://creativecommons.org/licenses/by-sa/3.0/)\\
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
 
 

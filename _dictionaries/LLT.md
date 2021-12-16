@@ -30,15 +30,10 @@ Current version is [v1.0 (April 26, 2020)][1]. Format Slob is recommended for Go
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">
-  <img alt="Creative Commons License" style="border-width:0"
-       src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
-</a>
-
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+[![CC BY-NC-SA 4.0](/assets/img/license-by.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)\\
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-04-26
 [2]: {{ site.baseurl }}{% link docs/docs.md %}
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
-

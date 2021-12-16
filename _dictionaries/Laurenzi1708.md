@@ -56,7 +56,7 @@ Abbreviations and acronyms are listed at the end of the corresponding letter sec
 
 ## License
 
-<img src="https://rightsstatements.org/files/buttons/NoC-NC.dark-white-interior.svg" style="height: 31px;">\\
+<img src="/assets/img/license-noc.svg" style="height: 31px;">\\
 Code of the dictionary is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/); images are licensed for [non-commercial use](https://rightsstatements.org/page/NoC-NC/1.0/).
 
 

@@ -38,7 +38,7 @@ There are about 600 of incomplete keywords, such as "Begr√§bnisort, -platz, -st√
 
 ## License
 
-[![Public Domain Mark](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+[![Public Domain Mark](/assets/img/license-public-domain.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
 This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 

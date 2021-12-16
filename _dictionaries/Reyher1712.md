@@ -40,7 +40,7 @@ Transcript made by the HAB Wolfenbüttel lacks for semantic mark-up, so currentl
 
 ## License
 
-[![CC BY-SA](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/de/)\\
+[![CC BY-SA](/assets/img/license-by-sa.png)](https://creativecommons.org/licenses/by-sa/3.0/de/)\\
 This work is licensed under a [Attribution-ShareAlike 3.0 Germany License](https://creativecommons.org/licenses/by-sa/3.0/de/).
 
 

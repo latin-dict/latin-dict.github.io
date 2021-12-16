@@ -40,7 +40,7 @@ Authors use medieval spelling for Latin words, so instead of 'paene', 'femina' l
 
 ## License
 
-[![Public Domain](https://licensebuttons.net/p/mark/1.0/88x31.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+[![Public Domain](/assets/img/license-public-domain.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
 This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/).
 
 

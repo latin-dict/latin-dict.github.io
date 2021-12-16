@@ -58,7 +58,7 @@ Citation references were not resolved into real Internet links.
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/us/">
 <img alt="Creative Commons License"
      style="border-width:0"
-     src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
+     src="/assets/img/license-by-sa.png" />
 </a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>.
 
 > Text provided under a CC BY-SA license by Perseus Digital Library, <http://www.perseus.tufts.edu>, with funding from The National Endowment for the Humanities. Data accessed from <https://github.com/PerseusDL/lexica/> [2020-01-06].

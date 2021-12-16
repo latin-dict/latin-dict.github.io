@@ -32,7 +32,7 @@ Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](htt
 
 ## License
 
-Copyright 1998 by Tom Elliott. "These lists may be used, reproduced and distributed for any academic purpose that does not generate profit so long as the title and authorship information, and the copyright notice, remain attached."
+© 1998 by Tom Elliott. "These lists may be used, reproduced and distributed for any academic purpose that does not generate profit so long as the title and authorship information, and the copyright notice, remain attached."
 
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}

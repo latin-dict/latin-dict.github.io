@@ -39,13 +39,9 @@ Articles from the volumes 9.1 and 11.2 (both are in PDF format) contain links to
 
 ## License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">
-<img alt="Creative Commons License"
-     style="border-width:0"
-     src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
-</a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 License</a>.
+[![CC BY-NC-ND](/assets/img/license-by-nc-nd.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)\\
+This work is licensed under a [Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-08-23
 [2]: http://publikationen.badw.de/en/thesaurus/lemmata
-

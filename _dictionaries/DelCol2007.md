@@ -25,8 +25,6 @@ The book "Diccionario auxiliar español-latino para el uso moderno del latín" w
 
 1. Del Col, Jose Juan. _Diccionario auxiliar español-latino para el uso moderno del Latín._ Instituto Superior Juan XXIII, Bahía Blanca, 2007. URL: <http://www.juan23.edu.ar/latin/diccionario.html>.
 
-There was some information, such as [this](information), about preparation of the second edition of the dictionary, but we have no information was it ever published or not.
-
 
 # States and limitations
 
@@ -35,12 +33,7 @@ Keywords are duplicated with their equivalents after removing diacritics, e.g. "
 
 ## License
 
-All our attempts to contact with the copyright holder, Instituto Superior "Juan XXIII", were left without any response. The book is deposited on the institute's website for free download, so we believe that our version can be considered a "fair use".
-
-[![CC BY-NC-SA](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)\
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-If the copyright holder decides to distribute this dictionary under a less restricted license, our edition can be used with these new legal terms, including the Public Domain or CC0.
+© Instituto Superior "Juan XXIII". The book is deposited on the institute's website for free download, so we believe that our version can be considered a "fair use".
 
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}

@@ -37,7 +37,7 @@ Dictionary is also available as an independent [Android application][4].
 
 ## License
 
-Author, Tommaso Spinelli, [gave permission][5] for redistribution of the dictionary, however license terms are not established yet, so contact him for further explanations in case you are going to produce a derivative work.
+© Tommaso Spinelli. The author [gave permission][5] for distribution of the dictionary on our website.
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-01-14

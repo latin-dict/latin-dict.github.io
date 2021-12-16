@@ -54,7 +54,7 @@ See "errata" in the [repository][3] for corrections made in our version.
 ## License
 
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
+<img src="/assets/img/license-public-domain.png"
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 

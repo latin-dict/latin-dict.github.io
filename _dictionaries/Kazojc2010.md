@@ -30,7 +30,7 @@ On-line version can be accessed on the website [Łacina globalnie][10].
 
 ## License
 
-[![CC BY-SA 3.0 PL](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/pl/)\\
+[![CC BY-SA 3.0 PL](/assets/img/license-by-sa.png)](http://creativecommons.org/licenses/by-sa/3.0/pl/)\\
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Poland License](http://creativecommons.org/licenses/by-sa/3.0/pl/).
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}

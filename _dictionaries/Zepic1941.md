@@ -42,11 +42,8 @@ Text of the transcript does not correspond exactly with the paper book: spelling
 
 ## License
 
-<a rel="license" href="https://creativecommons.org/licenses/by/4.0/">
-<img alt="Creative Commons License"
-     style="border-width:0"
-     src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" />
-</a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+[![CC BY](/assets/img/license-by.png)](https://creativecommons.org/licenses/by/4.0/)\
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://github.com/nevenjovanovic/zepic1941-lat-hrv/blob/master/LICENSE.md).
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-02-20

@@ -36,7 +36,7 @@ Original dictionary was published in 1879, and transcribed in 1997:
 
 ## License
 
-[![CC BY-SA](https://i.creativecommons.org/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/us/)\\
+[![CC BY-SA](/assets/img/license-by-sa.png)](https://creativecommons.org/licenses/by-sa/3.0/us/)\\
 This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 United States License](https://creativecommons.org/licenses/by-sa/3.0/us/).
 
 > Text provided by Perseus Digital Library, with funding from The National Endowment for the Humanities. Original version available for viewing and download at <http://www.perseus.tufts.edu/>
