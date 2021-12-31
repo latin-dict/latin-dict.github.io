@@ -106,3 +106,15 @@
   website: https://download.freedict.org/dictionaries/swe-lat/
   tags: [Swedish, Latin]
   comment: 
+- title: Dictionnaire Latin-Français
+  author: Jeanneau & Woitrain
+  year: (?)
+  website: http://www.prima-elementa.fr/Dico.htm
+  tags: [Latin, French]
+  comment: online search is [here](http://www.micmap.org/dicfro/search/jeanneau/)
+- title: Lexicon Syriacum
+  author: Brockelmann
+  year: 1928
+  website: http://www.dukhrana.com/lexicon/Brockelmann/
+  tags: [Syriac, Latin]
+  comment: 
