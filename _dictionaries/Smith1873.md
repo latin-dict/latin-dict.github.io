@@ -40,7 +40,7 @@ Original date of the publication \[1\] as stated in the Perseus' edition is dubi
 
 ## License
 
-[![CC BY-NC-SA](/assets/img/license-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)\
+[![CC BY-SA](/assets/img/license-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)\
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 [1]: https://github.com/latin-dict/{{ page.nickname }}
