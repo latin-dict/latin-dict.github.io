@@ -8,6 +8,8 @@ nickname: Alpheios-html
 tags: [Ancient Greek]
 categories: [archive]
 comment: 
+redirect_from:
+  - /online/Alpheios.html
 ---
 # {{ page.title }}
 

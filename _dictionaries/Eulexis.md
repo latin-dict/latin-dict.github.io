@@ -8,6 +8,8 @@ nickname: Eulexis-html
 tags: [Ancient Greek]
 categories: [archive]
 comment: 
+redirect_from:
+  - /online/Eulexis.html
 ---
 # {{ page.title }}
 
