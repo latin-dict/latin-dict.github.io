@@ -11,10 +11,10 @@
       url: /list_synonyms.html
     - title: scientific or special
       url: /list_scientific.html
-    - title: ancient greek
-      url: /list_greek.html
     - title: medieval
       url: /list_medieval.html
+    - title: ancient greek
+      url: /list_greek.html
     - title: archive
       url: /list_archive.html
 - title: Docs
