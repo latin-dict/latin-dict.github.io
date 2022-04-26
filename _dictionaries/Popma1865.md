@@ -19,8 +19,6 @@ Grammatical treatise "De usu antiquae locutionis" is an independent Popma's book
 
 [Download][2] files compiled for dictionary shells or view [source files][1]. Format Slob is recommended for GoldenDict, read [documentation][3] about other dictionary shells.
 
-Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](http://dadako.narod.ru/paperpoe.htm).
-
 [PDF book](https://danelh.github.io/De_Differentiis_Verborum_Popma.pdf) by Daniel Elhacham.
 
 
@@ -31,7 +29,7 @@ Version in DSL (ABBYY Lingvo) format can be found in the [Dadako' Knigohran](htt
 
 ## Sources
 
-1. Popma, Ausonius von; Heckel, Johann Friedrich; Messerschmid, Johann Christian; Richter, Adam Daniel; Vallauri, Tommaso. _De differentiis verborum._ (2nd ed.) Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC>.
+1. Popma, Ausonius van; Heckel, Johann Friedrich; Messerschmid, Johann Christian; Richter, Adam Daniel; Vallauri, Tommaso. _De differentiis verborum._ (2nd ed.) Turin, 1865. URL: <https://archive.org/details/bub_gb_KAPvVIaT-ZEC>.
 1. — " —. Turin, 1870 (reprint). URL: <https://books.google.com/books?id=9i6Ogx8aCJIC>.
 
 
