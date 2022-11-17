@@ -29,6 +29,13 @@ Adam Daniel Richter (1709-1782) was an editor of the [Popma's dictionary][11] pr
 1. Richter, Adam Daniel. _Differentias._ Annaberg-Buchholz, 1750. URL: <http://digital.slub-dresden.de/id381244369>.
 
 
+## Citation
+
+When using this dictionary, please cite ([bib]({{ site.baseurl }}{% link bib/Murzintcev2022.bib %})):
+
+> Murzintcev, Nikita. (2022). Popma's Monolingual Dictionary of Latin Synonyms. _Lexikos, 32_, pp. 357--363. URL: <https://lexikos.journals.ac.za/pub/article/view/1747>. DOI: [10.5788/32-1-1747](https://doi.org/10.5788/32-1-1747).
+
+
 ## License
 
 [![Public Domain](/assets/img/license-public-domain.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
