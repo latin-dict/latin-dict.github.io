@@ -11,7 +11,7 @@ GoldenDict is a computer shell which can read and organize dictionaries of diffe
 * Linux: install application from the software manager on your system; choose Qt5-based version if there are options. Another variant is [AppImage build](https://github.com/Abs62/goldendict/releases).
 * macOS: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
 
-@nonwill's fork of [GoldenDict with OCR module](https://nonwill.github.io/post/goldendict/) can also be a source of install files for all three platforms. Read [this thread](https://github.com/goldendict/goldendict/issues/953) to get additional information where to download GoldenDict.
+The original GoldenDict was in a dormant state for a long period, though it still can be used. All new features are implemented in a fork supported by a user [@xiaoyifang](https://github.com/xiaoyifang/goldendict). New versions of this edition are regularly released on [GitHub](https://github.com/xiaoyifang/goldendict/releases). However, be aware that some dictionaries, especially "html dictionaries", from this website are not yet compatible with xiaoyifang's application. Files in Slob format should work fine though.
 
 
 # Add dictionaries to GoldenDict

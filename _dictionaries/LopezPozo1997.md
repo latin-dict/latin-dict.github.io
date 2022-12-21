@@ -52,7 +52,7 @@ At the time when the book was typed in, author had no access to the spell correc
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/{{ page.nickname }}
 [4]: http://web.archive.org/web/20170311085837/http://www.cordobadealtastorres.com:80/
 [5]: http://cordobadealtastorres1.blogspot.com/2009/07/diccionarios.html
-[6]: http://www.culturaclasica.com/?q=diccionario
+[6]: https://web.archive.org/web/20210925003526/http://www.culturaclasica.com/?q=diccionario
 [7]: https://archive.org/details/lopezpozo1997
 [8]: https://www.abebooks.com/servlet/BookDetailsPL?bi=30363863638
 
