@@ -3,14 +3,19 @@ name: Build and deploy Jekyll site to GitHub Pages
 on:
   push:
     branches:
-      - main # or master before October 2020
+      - main
 
 jobs:
   github-pages:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: helaili/jekyll-action@v2
+      - uses: actions/cache@v2
         with:
-          token: ${{ secrets.GITHUBTOKEN }}
-          target_branch: 'gh-pages'
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      - uses: helaili/jekyll-action@2.4.0
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
