@@ -69,13 +69,13 @@
   year: 2017
   website: https://download.freedict.org/dictionaries/eng-lat/
   tags: [English, Latin]
-  comment: look up [online](http://dict.org)
+  comment: look up [online](http://dict.org/bin/Dict?Form=Dict3&Database=fd-eng-lat)
 - title: Latin-English FreeDict Dictionary
   author: FreeDict
   year: 2017
   website: https://download.freedict.org/dictionaries/lat-eng/
   tags: [Latin, English]
-  comment: look up [online](http://dict.org)
+  comment: look up [online](http://dict.org/bin/Dict?Form=Dict3&Database=fd-lat-eng)
 - title: Suomi-Latine FreeDict+WikDict dictionary
   author: FreeDict
   year: 2020
@@ -130,3 +130,15 @@
   website: http://www.ppek.hu/k288.htm
   tags: [Latin, Hungarian]
   comment: see [here](http://dadako.narod.ru/paperpoe.htm) for DSL format
+- title: Dicționar latin român
+  author: Boboiu & Farcaș
+  year: 2007-now
+  website: https://www.limbalatina.ro/dictionar.php
+  tags: [Latin, Romanian]
+  comment: also [Android application](https://play.google.com/store/apps/details?id=ro.limbalatina.dictionarlatinroman)
+- title: slovnik.cz
+  author: LangSoft(?)
+  year: (?)
+  website: https://www.slovnik.cz/
+  tags: [Latin, Czech]
+  comment: 

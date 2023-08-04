@@ -8,7 +8,7 @@ categories: [general]
 ---
 # {{ page.title }}, {{ page.author }} ({{ page.year }})
 
-Dr. Walter Redmond (lat. Gualterius Redmond) is a prominent scholar who reads courses of Logic and Philosophy entirely in Latin. Examples of his speechs and books:
+Dr. Walter Bernard Redmond O'Toole (1933), lat. Gualterius Redmond, is a prominent scholar who reads courses in Logic and Philosophy entirely in Latin. Examples of his speechs and books:
 
 * [Rubii psychologismi et nominalismi refutatio][5] (video)
 * [Philosophia Latine Docta][6] (see 'Commentationes')
@@ -49,12 +49,9 @@ Redmond uses capitalized letters to show correct stress (accent), such as "malEd
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
-<img src="/assets/img/license-public-domain.png"
-     style="border-style: none;" alt="Public Domain Mark" />
-</a>
 
-We were unable to contact the author, so license of the dictionary is unknown. As long as copyright-holders do not restrict it, our work can be distributed as Public Domain.
+[![Public Domain](/assets/img/license-public-domain.png)](http://creativecommons.org/publicdomain/mark/1.0/)\\
+This work is distributed as [Public Domain](http://creativecommons.org/publicdomain/mark/1.0/). Our project got personal consent from Dr. Walter Redmond on free distribution of his dictionary.
 
 [1]: https://github.com/nikita-moor/latin-dictionary/releases/tag/2020-05-05
 [2]: {{ site.baseurl }}{% link docs/docs.md %}

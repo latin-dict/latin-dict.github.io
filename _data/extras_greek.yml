@@ -28,9 +28,15 @@
   website: http://dadako.narod.ru/paperpoe.htm
   tags: [Ancient Greek, English]
   comment: direct [download link](http://dadako.narod.ru/GoldenDict/grc-eng_HomericDictionary_2_0-GD.zip)
-- title: Σούδας / Suidæ Lexicon
-  author: Suda
+- title: Sudae Lexicon
+  author: Suda (Σοῦδα)
   year: 10th cen.
   website: http://dadako.narod.ru/paperpoe.htm
   tags: [Ancient Greek]
-  comment: direct [download link](http://dadako.narod.ru/GoldenDict/grc-grc_Sudae-Lexicon_1_0-GD.zip)
+  comment: direct [download link](http://dadako.narod.ru/GoldenDict/grc-grc_Sudae-Lexicon_1_0-GD.zip); [online](https://www.cs.uky.edu/~raphael/sol/sol-html/) and [index](https://lexicon.katabiblon.com/suda/)
+- title: Handwörterbuch der griechischen Sprache
+  author: Pape
+  year: 1914
+  website: http://dadako.narod.ru/paperpoe.htm
+  tags: [Ancient Greek, German]
+  comment: direct [download link](http://dadako.narod.ru/GoldenDict/pape_gr-de.zip)

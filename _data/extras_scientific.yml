@@ -4,6 +4,12 @@
   website: http://hist.msu.ru/departments/8823/projects/Cappelli/
   tags: [Latin]
   comment: abbreviations in [DSL format](http://dadako.narod.ru/paperpoe.htm)
+- title: Dizionario di Abbreviature Latine ed Italiani
+  author: Cappelli
+  year: 1912
+  website: https://www.adfontes.uzh.ch/en/ressourcen/abkuerzungen/cappelli-online
+  tags: [Latin]
+  comment: full transcript in [StartDict format](https://github.com/ciceronianus/cappelliStarDict/releases)
 - title: A Smaller Dictionary of Greek and Roman Antiquities
   author: Smith
   year: 1884
@@ -30,13 +36,13 @@
   comment:
 - title: Sigla Latina in libris impressis occurrentia
   author: Winiarczyk
-  year:   1995
+  year: 1995
   website: http://mateo.uni-mannheim.de/camenaref/siglalatina.html
   tags: [Latin]
   comment:
 - title: Etymological Dictionary of Latin
   author: Valpy
-  year:   1827
+  year: 1827
   website: http://lexica.linguax.com/valpy.php
   tags: [Latin, English]
   comment:
@@ -88,3 +94,15 @@
   website: https://hkocher.info/minha_pagina/dicionario/0dicionario.htm
   tags: [Latin, Portuguese]
   comment: idioms and phrases; [DSL format](http://dadako.narod.ru/paperpoe.htm)
+- title: Реальный словарь классических древностей
+  author: Lübker
+  year: 1914 (rep. 2001)
+  website: http://www.sno.pro1.ru/lib/lubker/a/index.htm
+  tags: [Latin, Russian]
+  comment: encyclopaedia
+- title: A database of Latin epigraphic abbreviations by Trismegistos
+  author: Depauw & Gheldof
+  year: 2013
+  website: https://www.trismegistos.org/abb/index.php
+  tags: [Latin]
+  comment: 
