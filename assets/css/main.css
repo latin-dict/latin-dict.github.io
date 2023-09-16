@@ -147,6 +147,19 @@ ul.pagination .active a {
   color: grey;
 }
 
+
+#index-news {
+  display:inline-block;
+  vertical-align: top;
+  width: 350px;
+}
+#index-announce {
+  display:inline-block;
+  vertical-align: top;
+  width: 350px;
+  margin-right: 50px;
+}
+
 @media ( max-width: 600px) {
   #layout {
     grid-template-columns: auto;
