@@ -5,7 +5,7 @@ title: Documentation
 
 # Dictionary shells
 
-The dictionaries on this site are encoded as database files. To work with them, you'll need to first load them into a dictionary shell application. Your shell options will vary according to the device you use.
+The dictionaries on this site are encoded as database files. To work with them, you'll first need to load them into a dictionary shell application. Your shell options will vary according to the device you use.
 
 ## Desktop
 
