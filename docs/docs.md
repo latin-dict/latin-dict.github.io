@@ -17,11 +17,9 @@ For information on installing and configuring GoldenDict, see ["Quick Start"]({{
 
 ## Mobile
 
-These options are more limited. No single mobile app that we've tried combines superior search, interface, and file support. Below is a list of shell apps that should work with our dictionary files, but none receives our full endorsement:
+These options are more limited, in both choice and features. GoldenDict had a mobile version, which is apparently discontinued, as are several other apps that we used to link to. Below is a list of shell apps that should work with our dictionary files:
 
 * [Aard 2](http://aarddict.org/) (Android) — open source. Supports only **Slob** files.
-* [Alpus](https://alpusapp.com/index.html) (Android, iOS) — commercial, with a free version that allows up to 5 active dictionaries. Somewhat confusing interface, but supports many formats. (Use with **StarDict** or **XDXF** files from this site.)
-* [GoldenDict Mobile](http://goldendict.mobi/) (Android) — commercial, with a free version that allows up to 5 active dictionaries. (Use with **StarDict** files from this site.)
-* [BlueDict](http://www.ssdlsoft.com/bluedict/) (Android) — Chinese application (see on [Google Play](https://play.google.com/store/apps/details?id=cn.ssdl.bluedict)) supporting only **MDict** format. However, it has morphology search (read ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) for details).
+* [Alpus](https://alpusapp.com/index.html) (Android, iOS) — commercial, with a free version that allows up to 5 active dictionaries. The interface is little more than a seach bar with forward and backward arrows, but it supports many formats. (Use with **StarDict** or **XDXF** files from this site.)
 
 You can find more information about mobile dictionary apps in [this discussion](https://github.com/nikita-moor/latin-dictionary/issues/2). If you need a file format that you can't find on this site, please [contact us]({{ site.baseurl }}{% link about.md %}).
