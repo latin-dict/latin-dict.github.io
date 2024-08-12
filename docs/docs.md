@@ -7,7 +7,7 @@ title: Documentation
 
 The dictionaries on this site are encoded as database files. To work with them, you'll first need to load them into a dictionary shell application. Your shell options will vary according to the device you use.
 
-## Desktop
+## Desktop apps
 
 There are many good dictionary shell options for desktop, and we publish our files in **MDict**, **Slob**, **StartDict**, and **XDF** for broad compatibility.
 
@@ -15,7 +15,7 @@ If you don't already have a preferred dictionary shell, we recommend **GoldenDic
 
 For information on installing and configuring GoldenDict, see ["Quick Start"]({{ site.baseurl }}{% link docs/howto.md %}).
 
-## Mobile
+## Mobile apps
 
 These options are more limited, in both choice and features. GoldenDict had a mobile version, which is apparently discontinued, as are several other apps that we used to link to. Below is a list of shell apps that should work with our dictionary files:
 
