@@ -53,7 +53,7 @@ Install the app, and then follow these steps:
 
     * Enabled: ☑ (on)
     * As link: ☑ (on)
-    * Name: Enter anything you like.
+    * Name: Give this dictionary a name. (Anything is OK.)
     * Address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (Adapt this to match the path to your HTML dictionary file; it should start with 'file:///'.)
 1. Press **OK** to confirm. *Now you're ready to look up words.*
 
