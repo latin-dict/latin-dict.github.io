@@ -50,10 +50,10 @@ Install the app, and then follow these steps:
 1. Press **Add**. *A blank entry for a new entry will appear in the Websites window.*
 1. Fill in the entry items as follows:
 
-  * Enabled: ☑ (on);
-  * As link: ☑ (on);
-  * Name: on your choice (does not matter);
-  * Address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (Adapt this to match the path to your HTML dictionary file; it should start with 'file:///'.
+    * Enabled: ☑ (on);
+    * As link: ☑ (on);
+    * Name: on your choice (does not matter);
+    * Address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (Adapt this to match the path to your HTML dictionary file; it should start with 'file:///'.
 
 ## Updating dictionary
 
