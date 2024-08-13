@@ -51,9 +51,9 @@ Install the app, and then follow these steps:
 1. Press **Add**. *A blank new entry will appear in the Websites window.*
 1. Fill in the entry items as follows:
 
-    * Enabled: ☑ (on);
-    * As link: ☑ (on);
-    * Name: Enter anything you like;
+    * Enabled: ☑ (on)
+    * As link: ☑ (on)
+    * Name: Enter anything you like.
     * Address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (Adapt this to match the path to your HTML dictionary file; it should start with 'file:///'.)
 1. Press **OK** to confirm. *Now you're ready to look up words.*
 
