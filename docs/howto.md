@@ -31,8 +31,8 @@ Install the app, and then follow these steps:
 1. Select the **Sources** tab in the Dictionary window. *It should be shown by default; see image below.*
 1. Press **Add**. *This will open a popup window.*
 1. Click on the **pulldown menu** at the top of the popup window, and navigate to where you keep your dictionaries. Select the folder that contains the dictionary you want to add, and click **Open**. *You'll see the path to your selected dictionary appear in the Sources tab.*
-1.Press **OK** to confirm.
-1. You're now ready to look up words
+1. Press **OK** to confirm.
+1. Your're now ready to look up words.
 
 {% include img-viewer.html img="img/goldendict-1.png" %}
 
