@@ -7,15 +7,17 @@ title: Documentation
 
 GoldenDict is our recommended dictionary shell app. It's loaded with features, supports many dictionary formats, and it's free.
 
+Since GoldenDict is open source, you can find variations of it from various sources. For instance, the original [GoldenDict](http://goldendict.org) has been dormant for years, although it still works.
+
+All new features, however, are implemented in a [GitHub fork](https://github.com/xiaoyifang/goldendict/releases) supported by user [@xiaoyifang](https://github.com/xiaoyifang/goldendict).
+
 **Download** the latest version of GoldenDict here:
 
 * [Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows).
 * [macOS](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
 * [Linux](https://flathub.org/apps/io.github.xiaoyifang.goldendict_ng). Another option is [AppImage build](https://github.com/Abs62/goldendict/releases).
 
-(Since GoldenDict is open source, you can find variations of it from various sources. For instance, the original [GoldenDict](http://goldendict.org) has been dormant for years, although it still works.)
-
-All new features are implemented in a [GitHub fork](https://github.com/xiaoyifang/goldendict/releases) supported by user [@xiaoyifang](https://github.com/xiaoyifang/goldendict). Note, however, that some dictionaries from our collection (especially HTML dictionaries) are not yet compatible with xiaoyifang's version. SLOB files should work fine though.
+**Note:** Some dictionaries from our collection (especially HTML dictionaries) are not yet compatible with xiaoyifang's version. SLOB files should work fine though.
 
 ## Working with dictionaries in GoldenDict
 
