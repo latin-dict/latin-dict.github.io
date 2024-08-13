@@ -22,11 +22,11 @@ All new features are implemented in a [GitHub fork](https://github.com/xiaoyifan
 To use the dictionaries on this site, you must add them to GoldenDict.
 Install the app, and then follow these steps:
 
-### Download dictionaries
+### Prepare your dictionary file
 
-1. Click the **link** to your desired dictionary file. *On the Latin Dictionary site, look for files that end with either "slob.zip" or "html.zip" and ignore "Source code."*
+1. **Download** your desired dictionary file. *Browse the Latin Dictionary site, then select files that end with either "slob.zip" or "html.zip" and ignore any named "Source code."*
 1. If your downloaded ZIP file doesn't automatically expand, **double click** on it. *You should end up with a folder containg at least one file. For example, if you downloaded Lewis' An Elementary Latin Dictionary, you should have a folder titled Lewis1890-slob, which contains the file Lewis1890-lat-eng.slob.*
-1. **Save** the extracted folder on your computer. *If you plan on downloading multiple dictionaries, it's a good idea to save them in single location for easy access.*
+1. **Save** the extracted folder and its contents on your computer. *If you plan on downloading multiple dictionaries, it's a good idea to save them in single location for easy access.*
 
 ### Add SLOB dictionaries to GoldenDict
 
@@ -34,8 +34,7 @@ Install the app, and then follow these steps:
 1. Select the **Sources** tab in the Dictionary window. *It should be shown by default; see image below.*
 1. Press **Add**. *This will open a popup window.*
 1. Click on the **pulldown menu** at the top of the popup window, and navigate to where you keep your dictionaries. Select the folder that contains the dictionary you want to add, and click **Open**. *You'll see the path to your selected dictionary appear in the Sources tab.*
-1. Press **OK** to confirm.
-1. Your're now ready to look up words.
+1. Press **OK** to confirm. *Now your're now ready to look up words.*
 
 {% include img-viewer.html img="img/goldendict-1.png" %}
 
@@ -47,14 +46,15 @@ Install the app, and then follow these steps:
 1. Select the **Websites** tab in the Dictionary window.
 1. In GoldenDict, open menu Edit > Dictionaries.
 1. Switch to the tab Websites.
-1. Press **Add**. *A blank entry for a new entry will appear in the Websites window.*
+1. Press **Add**. *A blank new entry will appear in the Websites window.*
 1. Fill in the entry items as follows:
 
     * Enabled: ☑ (on);
     * As link: ☑ (on);
-    * Name: on your choice (does not matter);
-    * Address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (Adapt this to match the path to your HTML dictionary file; it should start with 'file:///'.
+    * Name: Enter anything you like;
+    * Address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (Adapt this to match the path to your HTML dictionary file; it should start with 'file:///'.)
+1. Press **OK** to confirm. *Now you're ready to look up words.*
 
-## Updating dictionary
+## Update dictionaries
 
-If you are updating an old dictionary, simply replace it with files from new release. Then open menu File&nbsp;>&nbsp;Rescan Files.
+To upadate and installed dictionary, simply replace the original folder with the new release. Then in the menu bar, go to File&nbsp;>&nbsp;Rescan Files.
