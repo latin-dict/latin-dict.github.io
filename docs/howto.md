@@ -9,9 +9,9 @@ GoldenDict is our recommended dictionary shell app. It's loaded with features, s
 
 **Download** the latest version of GoldenDict here:
 
-* Windows: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows).
-* macOS: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
-* Linux: install application from the software manager on your system; choose Qt5-based version if there are options. Another variant is [AppImage build](https://github.com/Abs62/goldendict/releases).
+* [Windows Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows).
+* [macOS Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
+* [Linux](https://flathub.org/apps/io.github.xiaoyifang.goldendict_ng). Another option is [AppImage build](https://github.com/Abs62/goldendict/releases).
 
 (Since GoldenDict is open source, you can find variations of it from various sources. For instance, the original [GoldenDict](http://goldendict.org) has been dormant for years, although it still works.)
 
