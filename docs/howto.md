@@ -55,6 +55,6 @@ Install the app, and then follow these steps:
     * Address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (Adapt this to match the path to your HTML dictionary file; it should start with 'file:///'.)
 1. Press **OK** to confirm. *Now you're ready to look up words.*
 
-## Update dictionaries
+### Update dictionaries
 
 To upadate and installed dictionary, simply replace the original folder with the new release. Then in the menu bar, go to File&nbsp;>&nbsp;Rescan Files.
