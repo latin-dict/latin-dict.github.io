@@ -16,22 +16,6 @@ I am open for cooperation. If you want to share your dictionary, join to a digit
 
 <div>
 
-<div id="index-announce" markdown="1">
-
-# Announcement
-
-<p markdown="1" style="padding: 5px; background-color: #ffd6f5;">
-
-I am looking for the **"Humanist Latin Dictionary"** made by **William Harris (1926-2009)**. It was sold in 1996-2002 as a computer application for MacOS 7-9 or Windows 3.1 by two distributors, Rob Latousek (Centaur Systems, US) and Julian Morgan (J&#8209;PROGS, UK). Also, it was included into the CD&#8209;ROM collections LatinStudio or Latina.
-
-</p>
-
-If you have a copy of this dictionary, please, share it with me. I will be grateful for any information about the Dr. Harris heirs: Min Harris (Shoreham, VT), James Harris (Somerville, MA), or John Harris (West Hartford, CT).
-
-You can contact me by [e-mail]({{ site.baseurl }}{% link about.md %}), or on the web forums, [Textkit](https://www.textkit.com/greek-latin-forum/viewtopic.php?t=72932) or [Latin Discussion](https://latindiscussion.org/threads/search-humanist-latin-dictionary.36687/).
-
-</div>
-
 <div id="index-news" markdown="1">
 
 # News
