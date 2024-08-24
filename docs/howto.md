@@ -3,48 +3,62 @@ layout: default
 title: Documentation
 ---
 
-# Install GoldenDict
+# GoldenDict quick start guide
 
-GoldenDict is a computer shell which can read and organize dictionaries of different formats.
+GoldenDict is our recommended dictionary shell app. It's loaded with features, supports many dictionary formats, and it's free.
 
-* Windows: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows).
-* Linux: install application from the software manager on your system; choose Qt5-based version if there are options. Another variant is [AppImage build](https://github.com/Abs62/goldendict/releases).
-* macOS: use [Early Access Builds](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
+Since GoldenDict is open source, you can find variations of it from various sources. For instance, the original [GoldenDict](http://goldendict.org) has been dormant for years, although it still works. All new features, however, are implemented in a [GitHub fork](https://github.com/xiaoyifang/goldendict/releases) supported by user [@xiaoyifang](https://github.com/xiaoyifang/goldendict).
 
-The original GoldenDict was in a dormant state for a long period, though it still can be used. All new features are implemented in a fork supported by a user [@xiaoyifang](https://github.com/xiaoyifang/goldendict). New versions of this edition are regularly released on [GitHub](https://github.com/xiaoyifang/goldendict/releases). However, be aware that some dictionaries from our collection, especially "html dictionaries", are not yet compatible with xiaoyifang's version. Files in Slob format should work fine though.
+**Download** the latest version of GoldenDict here:
 
+* [Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows).
+* [macOS](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Mac-OS-X).
+* [Linux](https://flathub.org/apps/io.github.xiaoyifang.goldendict_ng). Another option is [AppImage build](https://github.com/Abs62/goldendict/releases).
 
-# Add dictionaries to GoldenDict
+**Note:** Some dictionaries from our collection (especially HTML dictionaries) are not yet compatible with xiaoyifang's version. SLOB files should work fine though.
 
-In order to use dictionaries from this website you should make few simple steps:
+## Working with dictionaries in GoldenDict
 
-1. Take the most recent version of a dictionary from the [Release](https://github.com/nikita-moor/latin-dictionary/releases) section. Choose files with "zip" extension and ignore "Source code".
-1. Downloaded file is an archive which should be extracted. For example, dictionary [Dumesnil1819 v1.1.3](https://github.com/nikita-moor/latin-dictionary/releases/download/release/Dumesnil1819-1.1.3.zip) contains folder "Dumesnil1819". Save this folder with files on your computer.
-1. In GoldenDict, open menu Edit > Dictionaries. 
-1. Switch to the tabs Sources > Files (it should be shown by default; see image below).
-1. Press button "Add…" and open the folder of the dictionary. Press "OK" to confirm, and you will see how the dictionary is being indexed.
-1. Everything is ready and you could start looking for words, e.g. "amor".
+To use the dictionaries on this site, you must add them to GoldenDict.
+Install the app, and then follow these steps:
+
+### Prepare a dictionary file
+
+1. **Download** your desired dictionary file. 
+
+    Browse the Latin Dictionary site, then select files that end with either "slob.zip" or "html.zip" and ignore any named "Source code."
+1. If your downloaded ZIP file doesn't automatically expand, **double click** on it.
+
+    You should end up with a folder containg at least one file. For example, if you downloaded Lewis' An Elementary Latin Dictionary, you should have a folder titled Lewis1890-slob, which contains the file Lewis1890-lat-eng.slob.
+1. **Save** the extracted folder and its contents on your computer.
+
+    If you plan on downloading multiple dictionaries, it's a good idea to save them in single location for easy access.
+
+### Add a SLOB dictionary to GoldenDict
+
+1. In the GoldenDict menu bar, go to **Edit > Dictionaries**.
+1. Select the **Sources** tab in the Dictionary window. (It should be shown by default; see image below.)
+1. Press **Add**. (This will open a popup window.)
+1. Click on the **pulldown menu** at the top of the popup window, and navigate to where you keep your dictionaries. Select the folder that contains the dictionary you want to add, and click **Open**. (You'll see the path to your selected dictionary appear in the Sources tab.)
+1. Press **OK** to confirm and exit the Dictionaries window.
 
 {% include img-viewer.html img="img/goldendict-1.png" %}
 
-**Note:** if you organized dictionaries into groups (menu Edit > Dictionaries, tab Groups), then the new dictionary will not be added automatically. In such a case, on the step 4 in place of "OK" press "Apply", then on the tab Groups add new dictionary into the desired group.
+### Add an HTML dictionary to GoldenDict
 
-
-# HTML dictionaries
-
-This type of dictionaries works similar to websites:
-
-1. Download the most recent version of the dictionary.
-1. Extract files from the archive.
+1. In the GoldenDict menu bar, go to **Edit > Dictionaries**.
+1. Select the **Websites** tab in the Dictionary window.
 1. In GoldenDict, open menu Edit > Dictionaries.
 1. Switch to the tab Websites.
-1. Press button "Add…" and fill new item:
-  - enabled: ☑ (on);
-  - as link: ☑ (on);
-  - name: on your choice (does not matter);
-  - address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (adapt it to the real path to "index.html"; it should start with 'file:///'; use "forward" slashs instead of backslash).
+1. Press **Add**. (A blank new entry will appear in the Websites window.)
+1. Fill in the entry items as follows:
 
+    * Enabled: ☑ (on)
+    * As link: ☑ (on)
+    * Name: Give this dictionary a name. (Anything is OK.)
+    * Address: `file:///C:/Users/user/Documents/Eulexis-html/index.html` (Adapt this to match the path to your HTML dictionary file; it should start with 'file:///'.)
+1. Press **OK** to confirm and exit the Dictionaries window.
 
-## Updating dictionary
+### Update a dictionary
 
-If you are updating an old dictionary, simply replace it with files from new release. Then open menu File&nbsp;>&nbsp;Rescan Files.
+To upadate and installed dictionary, simply replace the original folder with the new release. Then in the menu bar, go to File&nbsp;>&nbsp;Rescan Files.

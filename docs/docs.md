@@ -4,31 +4,22 @@ title: Documentation
 ---
 
 # Dictionary shells
-## Preface
 
-Choosing dictionary shell, one need to take in account two questions:
+The dictionaries on this site are encoded as database files. To work with them, you'll first need to load them into a dictionary shell application. Your shell options will vary according to the device you use.
 
-1. Does the application support the format of the dictionaries you have?
-1. Does it provide effective search through your collection?
+## Desktop apps
 
-We publish our dictionaries in a **XDXF**, **Slob**, **StarDict**, and **MDict** formats, so it is likely you will find compatible shell easily.
+There are many good dictionary shell options for desktop, and we publish our files in **MDict**, **Slob**, **StartDict**, and **XDF** for broad compatibility.
 
-Concerning the second question, Hunspell library is the most advanced method to the date. For example, using Hunspell and querying for words "amare", "amavistis", "amabam", user will receive the same article with canonical headword "amo". Section ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) tells more about Hunspell.
+If you don't already have a preferred dictionary shell, we recommend **GoldenDict**. This free, open-source app works on Windows, Linux, and macOS, and it supports a variety of formats (though we recommend using **Slob** files from this site). Reliable and easy to use, it's the best dictionary app we know of for working with Latin.
 
+For information on installing and configuring **GoldenDict**, see ["Quick Start"]({{ site.baseurl }}{% link docs/howto.md %}).
 
-## Desktop
+## Mobile apps
 
-[GoldenDict](http://goldendict.org/) is leaving no alternative desktop dictionary shell. It works on Windows, Linux, and MacOS, and supports great variety of file formats. To the date it is the most functional application for work with dictionaries, and talking about Latin language you would not find more appropriate software. Read article ["Quick Start"]({{ site.baseurl }}{% link docs/howto.md %}) about initial configuration of the GoldenDict.
+These options are more limited, in both choice and features. **GoldenDict** had a mobile version, which is apparently discontinued, as are several other apps that we used to link to. Below is a list of shell apps that should work with our dictionary files:
 
+* [Aard 2](http://aarddict.org/) (Android) — open source. Supports only **Slob** files.
+* [Alpus](https://alpusapp.com/index.html) (Android, iOS) — commercial, with a free version that allows up to 5 active dictionaries. The interface is little more than a seach bar with forward and backward arrows, but it supports many formats. (Use with **StarDict** or **XDXF** files from this site.)
 
-## Mobile
-
-Situation around mobile dictionary shells is not such good. Some of them correctly recognize dictionaries, but do not provide good search, or support one format very well but do not accept other files from your collection. Below we list some software but cannot recommend absolutely satisfying one:
-
-* [Aard 2](http://aarddict.org/) (Android) — open source application. Use **Slob** format.
-* [Alpus](https://alpusapp.com/index.html) (Android, iOS) — commercial, _Free Edition_ works with up to 5 dictionaries. Interface is somewhat confusing, but it supports many formats and could import merely every Latin dictionary you could find in the Internet. We provide **XDXF** and **StarDict** files for this application.
-* [GoldenDict Mobile](http://goldendict.mobi/) (Android) — commercial, _Free_ version limits number of active dictionaries to 5. Use **StarDict** files.
-* [BlueDict](http://www.ssdlsoft.com/bluedict/) (Android) — Chinese application (see on [Google Play](https://play.google.com/store/apps/details?id=cn.ssdl.bluedict)) supporting only **MDict** format. However, it has morphology search (read ["Hunspell"]({{ site.baseurl }}{% link docs/hunspell.md %}) for details).
-
-More mobile shells could be found in [this discussion](https://github.com/nikita-moor/latin-dictionary/issues/2). If you need some exotic format, please, [contact us]({{ site.baseurl }}{% link about.md %}).
-
+You can find more information about mobile dictionary apps in [this discussion](https://github.com/nikita-moor/latin-dictionary/issues/2). If you need a file format that you can't find on this site, please [contact us]({{ site.baseurl }}{% link about.md %}).
