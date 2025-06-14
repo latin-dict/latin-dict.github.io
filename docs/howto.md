@@ -18,11 +18,13 @@ Since GoldenDict is open source, you can find variations of it from various sour
 **Note:** Some dictionaries from our collection (especially HTML dictionaries) are not yet compatible with xiaoyifang's version. SLOB files should work fine though.
 
 ## Working with dictionary files
+
 Once you instal GoldenDict, you can start adding the dictionary files that you download from this site. The instructions below give advice on downloading, adding, and updating dictionaries.
 
 **Note:** The process for adding files depends of the file format. Check your file type and follow the appropriate instructions.
 
 ### Download a dictionary file
+
 Follow these steps to ensure your dictionary file your select is correctly downloaded and compatible with GoldenDict:
 
 1. **Select** your desired dictionary file.
@@ -58,6 +60,7 @@ Follow these steps to ensure your dictionary file your select is correctly downl
     * Address: Enter the filepath to the HTML dictionary file saved on your computer. It should look like this: `file:///C:/Users/user/Documents/Eulexis-html/index.html`.
     
         **Note:** The app provides `http://` by default. Be sure to change this to `file:///`, and then add your filepath.
+
 1. Press **OK** to confirm and exit the Dictionaries window.
 
 {% include img-viewer.html img="img/htmldict.png" %}
