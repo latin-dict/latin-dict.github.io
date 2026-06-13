@@ -5,7 +5,7 @@ title: About
 
 # Author
 
-Murzintcev Nikita, Ph.D. Latin language is my hobby.
+Murzintcev Nikita, Ph.D.
 
 All questions about the project should be sent to this address: <span id="address" onclick="document.getElementById('address').innerHTML='latin-dict';"><i>>>click<<</i></span>@mail.ru.
 
